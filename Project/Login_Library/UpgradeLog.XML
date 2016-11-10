@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Academic">
+</Property><Property Name="Solution File" Value="E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\Academic.sln">
+</Property><Property Name="Date" Value="Monday, December 26, 2011">
+</Property><Property Name="Time" Value="13:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Academic" Source="Academic.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Academic" Source="Academic.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Academic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Academic.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Academic" Source="Academic.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

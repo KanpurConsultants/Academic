@@ -1,0 +1,22 @@
+; Field definition file for table: ADORecordset
+EntryPoint	string	255	Assignment Sheet	
+U_EntDt	string	255	03/04/12	
+U_Name	string	255	a.k	
+ActualAdd	number	1	
+ActualEdit	number	2	
+ActualDel	number	0	
+ActualPrint	number	0	
+ActualFax	number	0	
+ActualSms	number	0	
+ActualEmail	number	0	
+AddTarget	number		
+EditTarget	number		
+PrintTarget	number		
+FaxTarget	number		
+EmailTarget	number		
+SmsTarget	number		
+AddPer	number		
+EditPer	number		
+PrintPer	number		
+SelGrid1	string	255	 For UserName : All 	
+SelGrid2	string	255	 For Entry : All 	

@@ -1,0 +1,48 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Exam.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Exam.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Exam.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmExamType.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSemesterExamAdmission.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmStreamYearSemesterExam.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSubjectMarksEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.pdb
+D:\Rati\Academic\Release\Academic_Exam.pdb
+D:\Rati\Academic\Release\Academic_Exam.xml
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmEnviro.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmExamType.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSemesterExamAdmission.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmStreamYearSemesterExam.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSubjectMarksEntry.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.Resources.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.xml
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.pdb
+D:\Rati\Academic\Release\Academic_Exam.exe
+D:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.exe
+E:\Rati\Academic\Release\Academic_Exam.exe
+E:\Rati\Academic\Release\Academic_Exam.pdb
+E:\Rati\Academic\Release\Academic_Exam.xml
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmEnviro.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmExamType.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSemesterExamAdmission.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmStreamYearSemesterExam.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSubjectMarksEntry.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.Resources.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.exe
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.xml
+E:\Rati\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.pdb

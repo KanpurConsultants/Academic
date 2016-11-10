@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1  LPLN 2011       4	
+V_Type	string	255	LPLN	
+V_No	long	4	
+V_Date	date	04/Apr/2011 12:00:00 AM	
+ReferenceNo	string	255	LPLN-2011-4	
+SubjectManualCode	string	255	MCA -413	
+EvaluationScheme	string	255		
+LecturePerWeek	number	5	
+Remark	string	255		
+LectureNo	number	1	
+UnitCovered	string	255	1	
+TopicCovered	string	255	e.com definition, technologies & prperties	
+DeliveryDate	date	23/Jan/2012 12:00:00 AM	
+PresentStudent	number	7	
+Remark1	string	255		
+SeniorObservation	string	255		
+SessionProgramme	string	255	MCA/10-11	
+Semester	string	255	MCA/10-11/CS/2/Semester 4	
+SiteName	string	255	PPT	
+Subject	string	255	Fundamentals of Ecommerce(Ellective) {MCA -413}	
+Teacher	string	255	Sanjay Kumar Trivedi {0183}	
+ReportType	string	255	Summary	

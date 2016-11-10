@@ -1,0 +1,3 @@
+; Field definition file for table: ADORecordset
+Receive	number	63750	
+Fees	string	255	PROSPECTUS FEE {PROCPECTUS_FEE}	

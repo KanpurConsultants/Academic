@@ -1,0 +1,81 @@
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.xml
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.pdb
+D:\Rati\Academic\Release\Academic_Fee.dll
+D:\Rati\Academic\Release\Academic_Fee.pdb
+D:\Rati\Academic\Release\Academic_Fee.xml
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeRefundEntry.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmAdvance.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmAdvanceReminder.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFee.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeDueEntry.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeGroup.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeReceiveEntry.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmInstallmentReminder.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmInstallmentCreate.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmReverseFeeDue.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipAdjustHeadWise.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipDemand.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipHeadWise.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarShipParameter.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipReceive.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmStreamYearSemesterFee.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmStudentFeeChange.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.Resources.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.dll
+E:\Rati\Academic\Release\Academic_Fee.dll
+E:\Rati\Academic\Release\Academic_Fee.pdb
+E:\Rati\Academic\Release\Academic_Fee.xml
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeRefundEntry.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmAdvance.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmAdvanceReminder.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFee.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeDueEntry.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeGroup.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeReceiveEntry.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmInstallmentReminder.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmInstallmentCreate.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmReverseFeeDue.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipDemand.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipHeadWise.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarShipParameter.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipReceive.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmStreamYearSemesterFee.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmStudentFeeChange.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.Resources.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.dll
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.xml
+E:\Rati\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Fee.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Fee.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Fee.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeRefundEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmAdvance.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmAdvanceReminder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFee.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeDueEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmFeeReceiveEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmInstallmentReminder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmInstallmentCreate.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmReverseFeeDue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipDemand.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipHeadWise.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarShipParameter.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmScholarshipReceive.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmStreamYearSemesterFee.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.FrmStudentFeeChange.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Fee\obj\Release\Academic_Fee.pdb

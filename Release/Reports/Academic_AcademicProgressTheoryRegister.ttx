@@ -1,0 +1,29 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1   APT 2011       1	
+V_Type	string	255	APT	
+V_No	long	1	
+V_Date	date	23/Jan/2012 12:00:00 AM	
+ReferenceNo	string	255	APT-2011-1	
+SubjectManualCode	string	255		
+FromDate	date	23/Jan/2012 12:00:00 AM	
+ToDate	date	28/Jan/2012 12:00:00 AM	
+Remark	string	255		
+SeniorObservation	string	255		
+Year	number	2	
+SubjectManualCode1	string	255	MBA 041	
+Qty	number	5	
+CumulativeQty	number	5	
+CoveredPer_Course_Lab	number	50	
+CoveredUnit	string	255	1	
+Checked_Assignment_Practical	number	0	
+Checked_Tutorial_Quiz	number	0	
+Remark1	string	255		
+SessionProgramme	string	255		
+Semester	string	255		
+SiteName	string	255	PPT	
+Subject	string	255		
+Teacher	string	255	Rishi Kant Agnihotri {0247}	
+SemesterLine	string	255	MBA/08-09/MNGMT/2/Semester 4	
+SubjectLine	string	255	Enterpreneurship Development {MBA 041}	
+HOD	string	255		
+ReportType	string	255	Summary	

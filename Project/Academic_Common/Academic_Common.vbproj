@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B24A827D-4755-4A74-9EB8-714CE7C7FAB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Academic_Common.My.MyApplication</StartupObject>
+    <RootNamespace>Academic_Common</RootNamespace>
+    <AssemblyName>Academic_Common</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>false</GenerateManifests>
+    <ExcludedPermissions>
+    </ExcludedPermissions>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\Release\</OutputPath>
+    <DocumentationFile>Academic_Common.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Release\</OutputPath>
+    <DocumentationFile>Academic_Common.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Academic_Objects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Release\Academic_Objects.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Academic_ProjLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Release\Academic_ProjLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AgControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Release\AgControls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AgLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Release\AgLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Interop.ADODB, Version=2.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Release\Interop.ADODB.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Topctrl, Version=1.0.4168.34907, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Release\Topctrl.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\ClsFunction.vb" />
+    <Compile Include="Class\ClsMain.vb" />
+    <Compile Include="Class\ClsReportProcedures.vb" />
+    <Compile Include="Form\FrmDepartment.designer.vb">
+      <DependentUpon>FrmDepartment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDepartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmAdmissionNature.designer.vb">
+      <DependentUpon>FrmAdmissionNature.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmAdmissionNature.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmCategory.designer.vb">
+      <DependentUpon>FrmCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmClassRoom.Designer.vb">
+      <DependentUpon>FrmClassRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmClassRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDocument.designer.vb">
+      <DependentUpon>FrmDocument.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDocument.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmOccupation.designer.vb">
+      <DependentUpon>FrmOccupation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmOccupation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmProgramme.designer.vb">
+      <DependentUpon>FrmProgramme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmProgramme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmProgrammeNature.designer.vb">
+      <DependentUpon>FrmProgrammeNature.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmProgrammeNature.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmReligion.designer.vb">
+      <DependentUpon>FrmReligion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmReligion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmSemester.designer.vb">
+      <DependentUpon>FrmSemester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmSemester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmSession.designer.vb">
+      <DependentUpon>FrmSession.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmSession.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmSiteMaster.designer.vb">
+      <DependentUpon>FrmSiteMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmSiteMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmStream.designer.vb">
+      <DependentUpon>FrmStream.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmStream.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmSubject.designer.vb">
+      <DependentUpon>FrmSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmSubjectGroup.designer.vb">
+      <DependentUpon>FrmSubjectGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmSubjectGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmTimeSlot.Designer.vb">
+      <DependentUpon>FrmTimeSlot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmTimeSlot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmUniversity.designer.vb">
+      <DependentUpon>FrmUniversity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmUniversity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\MdlFunction.vb" />
+    <Compile Include="Modules\MdlVar.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form\MDIMain.designer.vb">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MDIMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\FrmDepartment.resx">
+      <DependentUpon>FrmDepartment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmAdmissionNature.resx">
+      <DependentUpon>FrmAdmissionNature.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmCategory.resx">
+      <DependentUpon>FrmCategory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmClassRoom.resx">
+      <DependentUpon>FrmClassRoom.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDocument.resx">
+      <DependentUpon>FrmDocument.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmOccupation.resx">
+      <DependentUpon>FrmOccupation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmProgramme.resx">
+      <DependentUpon>FrmProgramme.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmProgrammeNature.resx">
+      <DependentUpon>FrmProgrammeNature.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmReligion.resx">
+      <DependentUpon>FrmReligion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmSemester.resx">
+      <DependentUpon>FrmSemester.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmSession.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmSession.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmSiteMaster.resx">
+      <DependentUpon>FrmSiteMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmStream.resx">
+      <DependentUpon>FrmStream.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmSubject.resx">
+      <DependentUpon>FrmSubject.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmSubjectGroup.resx">
+      <DependentUpon>FrmSubjectGroup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmTimeSlot.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmTimeSlot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmUniversity.resx">
+      <DependentUpon>FrmUniversity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MDIMain.resx">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tree_Child.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dataman.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy1-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

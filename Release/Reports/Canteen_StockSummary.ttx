@@ -1,0 +1,54 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1  MPUR 2012       7	
+Sr	number	1	
+VoucherNo	string	255	7/2012/MPUR/1/A	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Type	string	255	MPUR	
+V_Prefix	string	255	2012	
+V_No	long	7	
+V_Date	date	23/May/2012 12:00:00 AM	
+Item	string	255	A100000005	
+BatchNo	string	255		
+IssueReceive	string	255		
+DocQty	number	10	
+Qty_Rec	number	10	
+Qty_Iss	number	0	
+Rate	number	100	
+Amount	number	1000	
+Remark	string	255		
+Godown	string	255		
+ItemDescription	string	255		
+ReferenceNo	string	255	MPUR-2012-7	
+PartyCode	string	255	A100000004	
+Unit	string	255	Pcs.	
+Uid	string	255	D5257673-1F26-48F4-AB45-C7A271C1DACA	
+ReferenceDocId	string	255		
+ReferenceUId	string	255		
+SalesTaxGroupParty	string	255		
+SalesTaxGroupItem	string	255		
+VoucherDescription	string	255	Mess Purchase	
+VoucherType	string	255	Mess Purchase	
+Site_Name	string	255	Naraina College of Engineering & Technology	
+SiteManualCode	string	255	NCET	
+PartyName	string	255	Cash A/c {Cash_Colg}	
+PartyDispName	string	255	Cash A/c	
+PartyManualCode	string	255	Cash_Colg	
+Add1	string	255		
+Add2	string	255		
+Add3	string	255		
+PIN	string	255		
+CityName	string	255		
+Phone	string	255		
+Mobile	string	255		
+FAX	string	255		
+LSTNo	string	255		
+CSTNo	string	255		
+TINNo	string	255		
+PAN	string	255		
+EMail	string	255		
+ItemName	string	255	Item	
+ItemManualCode	string	255	Item	
+ItemCategory	string	255	Category	
+ItemGroup	string	255	Group	
+GodownName	string	255		

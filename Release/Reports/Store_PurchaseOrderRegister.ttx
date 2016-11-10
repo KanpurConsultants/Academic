@@ -1,0 +1,25 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1   SPO 2011       1	
+V_Type	string	255	SPO	
+V_Prefix	string	255	2011	
+V_Date	date	10/May/2011 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+RemarkHeader	string	255		
+ReferenceNo	string	255	SPO-2011-1	
+TotalAmount	number	2400	
+TotalQty	number	15	
+subcode	string	255	A100000002	
+Remark	string	255		
+Sr	number	1	
+Item	string	255	A1000085	
+Qty	number	15	
+Rate	number	160	
+Amount	number	2400	
+Unit	string	255	A1000002	
+SiteName	string	255	GLOBAL GROUP OF INSTITUTIONS	
+Indent No	string	255		
+ItemName	string	255	ALBOO 20mm GI	
+Supplier	string	255	Cash a/c {cash}	
+ItemDescription	string	255		

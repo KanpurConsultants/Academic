@@ -1,0 +1,117 @@
+Public Class ClsMain    
+    Public CFOpen As New ClsFunction
+
+    Sub New(ByVal AgLibVar As AgLibrary.ClsMain, ByVal PLibVar As Academic_ProjLib.ClsMain)
+        AgL = AgLibVar
+        PLib = PLibVar
+        AgPL = New AgLibrary.ClsPrinting(AgL)
+        PObj = New Academic_Objects.ClsMain(AgL, PLib)
+        AgIniVar = New AgLibrary.ClsIniVariables(AgL)
+
+        Call IniDtEnviro()
+    End Sub
+
+    Public Sub UpdateTableStructure()
+        Try
+            Call AddNewTable()
+
+            Call AddNewField()
+
+            Call DeleteField()
+
+            Call EditField()
+
+            Call CreateVType()
+
+            Call AddNewVoucherReference()
+
+            Call CreateView()
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Sub AddNewField()
+        Dim mQry$ = ""
+        Try
+            ''============================< Sch_FeeDue1 Name >===================================================
+            AgL.AddNewField(AgL.GCn, "Sch_FeeDue1", "IsReversePostable", "bit", 0, False)
+            AgL.AddNewField(AgL.GCn, "Sch_FeeDue1", "IsReversePosted", "bit", 0, False)
+            ''============================< ************************* >=====================================
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Sub DeleteField()
+        Try
+            '<Executable Code>
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Sub EditField()
+        Try
+            '<Executable Code>
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+
+    End Sub
+
+    Private Sub AddNewTable()
+        Dim mQry As String = ""
+
+        '' Note Write Each Table Query in Separate <Try---Catch> Section
+        Try
+            '<Executable Code>
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub CreateView()
+        Dim mQry As String = ""
+
+        '' Note Write Each Table Query in Separate <Try---Catch> Section
+        Try
+            '<Executable Code>
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub CreateVType()
+        Try
+            '===================================================< Reverse Fee Due Entry V_Type >===================================================
+            AgL.CreateNCat(AgL.GCn, Academic_ProjLib.ClsMain.NCat_ReverseFeeDue, Academic_ProjLib.ClsMain.Cat_ReverseFeeDue, "Reverse Fee Due", AgL.PubSiteCode)
+            AgL.CreateVType(AgL.GCn, Academic_ProjLib.ClsMain.NCat_ReverseFeeDue, Academic_ProjLib.ClsMain.Cat_ReverseFeeDue, Academic_ProjLib.ClsMain.NCat_ReverseFeeDue, "Reverse Fee Due", Academic_ProjLib.ClsMain.NCat_ReverseFeeDue, AgL.PubUserName, AgL.PubLoginDate, AgL.PubStartDate, AgL.PubEndDate, AgL.PubSiteCode, AgL.PubDivCode, False, AgL.PubSitewiseV_No)
+            '===================================================< **************************** >===================================================
+
+            '===================================================< Fee Adjustment Entry V_Type >===================================================
+            AgL.CreateNCat(AgL.GCn, Academic_ProjLib.ClsMain.NCat_FeeReceiveAdjustment, Academic_ProjLib.ClsMain.Cat_FeeReceive, "Fee Receive Adjustment", AgL.PubSiteCode)
+            AgL.CreateVType(AgL.GCn, Academic_ProjLib.ClsMain.NCat_FeeReceiveAdjustment, Academic_ProjLib.ClsMain.Cat_FeeReceive, Academic_ProjLib.ClsMain.NCat_FeeReceiveAdjustment, "Fee Receive Adjustment", Academic_ProjLib.ClsMain.NCat_FeeReceiveAdjustment, AgL.PubUserName, AgL.PubLoginDate, AgL.PubStartDate, AgL.PubEndDate, AgL.PubSiteCode, AgL.PubDivCode, False, AgL.PubSitewiseV_No)
+            '===================================================< **************************** >===================================================
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+
+    End Sub
+
+    Private Sub AddNewVoucherReference()
+        Try
+            Dim VRefObj As New Academic_ProjLib.ClsMain.VRef_ReferenceTable
+
+            'VRefObj.VRef_VehicleInsuranceClaimPayment()
+            'AgL.AddNewVoucherReference(AgL.GCn, VRefObj.Code, VRefObj.Description, VRefObj.BoundField, VRefObj.DisplayField, VRefObj.IsDocId_DisplayField, VRefObj.HelpQuery, VRefObj.FilterField, VRefObj.SiteField, VRefObj.LastHiddenColumns)
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+
+End Class

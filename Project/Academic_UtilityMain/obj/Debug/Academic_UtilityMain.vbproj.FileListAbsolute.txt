@@ -1,0 +1,28 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_UtilityMain.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_UtilityMain.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_UtilityMain.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmDivisionList.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmSiteList.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmUser.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmUserPasswardChange.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.pdb
+E:\Rati\Academic\Release\Academic_UtilityMain.exe
+E:\Rati\Academic\Release\Academic_UtilityMain.pdb
+E:\Rati\Academic\Release\Academic_UtilityMain.xml
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmDivisionList.resources
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmSiteList.resources
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmUser.resources
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.FrmUserPasswardChange.resources
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.Resources.resources
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.MDIMain.resources
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.exe
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.xml
+E:\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_UtilityMain.pdb

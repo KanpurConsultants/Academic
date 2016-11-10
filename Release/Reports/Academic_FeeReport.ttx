@@ -1,0 +1,78 @@
+; Field definition file for table: ADORecordset
+AdmissionId	string	255	A/1/BTech/11-12/ME/00031	
+StudentName	string	255	SUMIT  KUMAR  SINGH {809}	
+Site_Code	string	255	1	
+AdmissionDocId	string	255	A1 ADMSN 2011     127	
+OpeningDr	number	0	
+OpeningCr	number	0	
+OpeningNetDr	number	0	
+OpeningNetCr	number	0	
+OpeningAdvanceReceive	number	0	
+OpeningBalanceLedger	number	0	
+OpeningNetBal	number	0	
+DueAmt	number	130100	
+LineAmount	number	130100	
+LineDiscount	number	0	
+LineNetAmount	number	130100	
+AdvanceBF	number	0	
+AdjustmentAmount	number	0	
+DiscountAmount	number	0	
+TotalAdvanceAdjusted	number	0	
+TotalFeeReceiveAdjusted	number	0	
+TotalNetAmount	number	130100	
+TotalFeeRecvCrAmt	number	136800	
+RefundAmt	number	6700	
+AdvanceAmt	number	0	
+CurrentDr	number	0	
+CurrentCr	number	0	
+CurrentNetDr	number	0	
+CurrentNetCr	number	0	
+CurrentAdvanceReceive	number	0	
+CurrentBalanceLedger	number	0	
+CurrentNetBal	number	0	
+ClosingDr	number	0	
+ClosingCr	number	0	
+ClosingNetDr	number	0	
+ClosingNetCr	number	0	
+ClosingAdvanceReceive	number	0	
+ClosingBalanceLedger	number	0	
+ClosingNetBal	number	0	
+ReverseDueAmt	number	0	
+CounselingFeeAdjusted	number	0	
+ScholarShipAmount	number	0	
+OpeningLedgerDr	number	0	
+OpeningLedgerCr	number	0	
+CurrentLedgerDr	number	0	
+CurrentLedgerCr	number	0	
+OpeningFeeReceiveAmt	number	0	
+CurrentFeeReceiveAmt	number	136800	
+OpeningReverseDueAmt	number	0	
+CurrentReverseDueAmt	number	0	
+Fee	string	255		
+FeeHead	string	255		
+OpeningDueAmt	number	0	
+OpeningReceiveAmt	number	0	
+OpeningDiscount	number	0	
+OpeningRefundAmt	number	0	
+OpeningBalance	number	0	
+CurrentDueAmt	number	0	
+CurrentReceiveAmt	number	0	
+CurrentDiscount	number	0	
+CurrentRefundAmt	number	6700	
+CurrentBalance	number	6700	
+TillDateDueAmt	number	0	
+TillDateReceiveAmt	number	0	
+TillDateDiscount	number	0	
+TillDateRefundAmt	number	6700	
+TillDateBalance	number	6700	
+StreamYearSemesterDesc	string	255	BTech/11-12/ME/1/SEMESTER 2	
+SessionProgrammeStreamYearDesc	string	255	BTech/11-12/ME/1	
+SessionProgrammeDesc	string	255	BTech/11-12	
+SessionProgrammeStreamDesc	string	255	BTech/11-12/ME	
+SessionManualCode	string	255	11-12	
+ProgrammeManualCode	string	255	BTech	
+StreamManualCode	string	255	ME	
+SemesterSerialNo	short	2	
+YearSerial	number	1	
+CategoryManualCode	string	255	GEN	
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	

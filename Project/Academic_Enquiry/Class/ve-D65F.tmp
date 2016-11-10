@@ -1,0 +1,164 @@
+Public Class ClsFunction
+    Dim WithEvents ObjRepFormGlobal As AgLibrary.RepFormGlobal
+    Dim CRepProc As ClsReportProcedures
+
+    Public Function FOpen(ByVal StrSender As String, ByVal StrSenderText As String, Optional ByVal IsEntryPoint As Boolean = True, _
+                            Optional ByVal StrUserPermission As String = "", Optional ByVal DTUP As DataTable = Nothing)
+        Dim FrmObj As Form
+        Dim ADMain As OleDb.OleDbDataAdapter = Nothing
+        Dim MDI As New MDIMain
+
+        'For User Permission Open
+        If StrUserPermission.Trim = "" Then
+            StrUserPermission = AgIniVar.FunGetUserPermission(PubModuleName, StrSender, StrSenderText, DTUP)
+        End If        
+        ''For User Permission End 
+
+
+        If IsEntryPoint Then
+            Select Case StrSender
+                Case MDI.MnuSessionMaster.Name
+                    FrmObj = New FrmSession(StrUserPermission, DTUP)
+                    'FrmObj = New FrmComposeMail(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmUniversityMaster.Name
+                    FrmObj = New FrmUniversity(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmAdmissionNatureMaster.Name
+                    FrmObj = New FrmAdmissionNature(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmCategoryMaster.Name
+                    FrmObj = New FrmCategory(StrUserPermission, DTUP)
+
+                Case MDI.MnuProgrammeNatureMaster.Name
+                    FrmObj = New FrmProgrammeNature(StrUserPermission, DTUP)
+
+                Case MDI.MnuStreamMaster.Name
+                    FrmObj = New FrmStream(StrUserPermission, DTUP)
+
+                Case MDI.MnuProgrammeMaster.Name
+                    FrmObj = New FrmProgramme(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmDocumentMaster.Name
+                    FrmObj = New FrmDocument(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmReligionMaster.Name
+                    FrmObj = New FrmReligion(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmOccupationMaster.Name
+                    FrmObj = New FrmOccupation(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmSubjectMaster.Name
+                    FrmObj = New FrmSubject(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmSubjectGroupMaster.Name
+                    FrmObj = New FrmSubjectGroup(StrUserPermission, DTUP)
+
+                Case MDI.MnuSessionProgrammeMaster.Name
+                    FrmObj = New FrmSessionProgramme(StrUserPermission, DTUP)
+
+                Case MDI.MnuSemesterMaster.Name
+                    FrmObj = New FrmSemester(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmStreamYearSemesterSubjectMaster.Name
+                    FrmObj = New FrmStreamYearSemesterSubject(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmRegistrationEntry.Name
+                    FrmObj = New FrmRegistrationEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmRegistrationCancelEntry.Name
+                    FrmObj = New FrmRegistrationCancelEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmStudentMaster.Name
+                    FrmObj = New FrmStudentMaster(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmAdmissionEntry.Name
+                    FrmObj = New FrmAdmissionEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmSectionMaster.Name
+                    FrmObj = New FrmClassSection(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmClassRoomMaster.Name
+                    FrmObj = New FrmClassRoom(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmSectionAssignEntry.Name
+                    FrmObj = New FrmSectionAssignEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmOpenElectiveSectionAssignEntry.Name
+                    FrmObj = New FrmOpenElectiveSectionAssignEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmTeacherMaster.Name
+                    FrmObj = New FrmTeacher(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmTimeSlotMaster.Name
+                    FrmObj = New FrmTimeSlot(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmStudentAttendanceEntry.Name
+                    FrmObj = New FrmStudentAttendance(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmSubjectSwapEntry.Name
+                    FrmObj = New FrmSubjectSwap
+
+                Case MDI.MnuAmEnvironmentSettings.Name
+                    FrmObj = New FrmEnviro(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmSubSectionAssignEntry.Name
+                    FrmObj = New FrmSubSectionAssignEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmOpenElectiveSubSectionAssignEntry.Name
+                    FrmObj = New FrmOpenElectiveSubSectionAssignEntry(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmEnrollmentNoAssignEntry.Name
+                    FrmObj = New FrmEnrollmentNoAssign(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmRollNoAssignEntry.Name
+                    FrmObj = New FrmRollNoAssign(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmStudentLeftEntry.Name
+                    FrmObj = New FrmStudentLeft(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmStudentPromotionEntry.Name
+                    If MsgBox("This Is A Very Critical Section!..." & vbCrLf & "It Is Suggested To Take Backup Before Proceeding!..." & vbCrLf & "Want To Continue?...", MsgBoxStyle.YesNo + MsgBoxStyle.DefaultButton2) = MsgBoxResult.No Then
+                        FrmObj = Nothing
+                    Else
+                        FrmObj = New FrmStudentPromotion()
+                    End If
+
+                Case MDI.MnuAmDepartmentMaster.Name
+                    FrmObj = New FrmDepartment(StrUserPermission, DTUP)
+                    'FrmObj = New FrmCanteenSale(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmAreaMaster.Name
+                    FrmObj = New FrmAreamast(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmRouteMaster.Name
+                    FrmObj = New FrmRouteMast(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmOCAssignEntry.Name
+                    FrmObj = New FrmSessionProgrammeStreamOC(StrUserPermission, DTUP)
+
+                Case MDI.MnuAmStudentLeaveEntry.Name
+                    FrmObj = New FrmStudentLeave(StrUserPermission, DTUP)
+
+                Case Else
+                    FrmObj = Nothing
+            End Select
+        Else
+            ObjRepFormGlobal = New AgLibrary.RepFormGlobal(AgL)
+            CRepProc = New ClsReportProcedures(ObjRepFormGlobal)
+            CRepProc.GRepFormName = Replace(Replace(StrSenderText, "&", ""), " ", "")
+            CRepProc.Ini_Grid()
+            FrmObj = ObjRepFormGlobal
+        End If
+        If FrmObj IsNot Nothing Then
+            FrmObj.Text = StrSenderText
+        End If
+        Return FrmObj
+    End Function
+
+    Protected Overrides Sub Finalize()
+        MyBase.Finalize()
+    End Sub
+
+End Class
+

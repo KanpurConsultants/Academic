@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RUG_Main">
+</Property><Property Name="Solution File" Value="D:\Active Projects\RUG CARE\Project\RUG MAIN\RUG_Main.sln">
+</Property><Property Name="User Options File" Value="D:\Active Projects\RUG CARE\Project\RUG MAIN\RUG_Main.suo">
+</Property><Property Name="Date" Value="Saturday, July 09, 2011">
+</Property><Property Name="Time" Value="10:45 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RUG_Main.sln" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\RUG_Main.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RUG_Main.suo" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\RUG_Main.suo">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="RUG_Main.vbproj" Description="Project file successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\RUG_Main.vbproj">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="RUG_Main.vbproj.user" Description="Project user file successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\RUG_Main.vbproj.user">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Class\ClsFunction.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Class\ClsFunction.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Class\ClsMain.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Class\ClsMain.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Class\ClsReportProcedures.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Class\ClsReportProcedures.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmAgent.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmAgent.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetMaterialPlan.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetMaterialPlan.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetOpeningStock.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetOpeningStock.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetProductionOrder.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetProductionOrder.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetProductionPlan.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetProductionPlan.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetSaleOrder.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetSaleOrder.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetSku.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetSku.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetSkuConsumption.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetSkuConsumption.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetTransferIssue.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetTransferIssue.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetTransferReceive.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetTransferReceive.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDefaultGodown.Designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDefaultGodown.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDefaultGodown.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDefaultGodown.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterial.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterial.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmBuyer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmBuyer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDesignConsumption.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDesignConsumption.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmImportFromExcel.Designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmImportFromExcel.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmImportFromExcel.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmImportFromExcel.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterialOpeningStock.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterialOpeningStock.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterialPlan.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterialPlan.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterialTransferIssue.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterialTransferIssue.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterialTransferReceive.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterialTransferReceive.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmPortMaster.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmPortMaster.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmSizeX.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmSizeX.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmTaxPostingGroupEntry.Designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmTaxPostingGroupEntry.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmTaxPostingGroupEntry.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmTaxPostingGroupEntry.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmUndyedYarnPlan.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmUndyedYarnPlan.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKUOpeningStock.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKUOpeningStock.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmShade.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmShade.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmSize.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmSize.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmQuality1.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmQuality1.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDesign.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDesign.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnMaster.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnMaster.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKU.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKU.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKUTransferIssue.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKUTransferIssue.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKUTransferReceive.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKUTransferReceive.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\TempStockTransferIssue.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\TempStockTransferIssue.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\TempStockTransferReceive.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\TempStockTransferReceive.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\TempSubGroup.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\TempSubGroup.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Modules\MdlFunction.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Modules\MdlFunction.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Modules\MdlVar.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Modules\MdlVar.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\MDIMain.designer.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\MDIMain.designer.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\MDIMain.vb" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\MDIMain.vb">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Tree_Child.bmp" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Tree_Child.bmp">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Dataman.ico" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Dataman.ico">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Copy.bmp" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Copy.bmp">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\copy-icon.png" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\copy-icon.png">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\copy1-icon.png" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\copy1-icon.png">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\approved.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\approved.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\images.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\images.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Ok.png" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Ok.png">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\disc.png" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\disc.png">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\stock-vector-vector-ok-and-cancel-button-set-54696784.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\stock-vector-vector-ok-and-cancel-button-set-54696784.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\disc1.png" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\disc1.png">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Copy of stock-vector-vector-ok-and-cancel-button-set-54696784.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Copy of stock-vector-vector-ok-and-cancel-button-set-54696784.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Untitled-11111.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Untitled-11111.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="ClassDiagram1.cd" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Planning.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Planning.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="ClassDiagram2.cd" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\UnLock.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\UnLock.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Lock1.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Lock1.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Resources\Lock.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Resources\Lock.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Planning.jpg" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Planning.jpg">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmAgent.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmAgent.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetMaterialPlan.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetMaterialPlan.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetOpeningStock.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetOpeningStock.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetProductionOrder.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetProductionOrder.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetProductionPlan.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetProductionPlan.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetSaleOrder.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetSaleOrder.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetSku.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetSku.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetSkuConsumption.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetSkuConsumption.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetTransferIssue.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetTransferIssue.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmCarpetTransferReceive.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmCarpetTransferReceive.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDefaultGodown.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDefaultGodown.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterial.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterial.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmBuyer.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmBuyer.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDesignConsumption.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDesignConsumption.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmImportFromExcel.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmImportFromExcel.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterialPlan.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterialPlan.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmOtherMaterialTransferIssue.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmOtherMaterialTransferIssue.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmPortMaster.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmPortMaster.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmSizeX.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmSizeX.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmTaxPostingGroupEntry.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmTaxPostingGroupEntry.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmUndyedYarnPlan.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmUndyedYarnPlan.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKUOpeningStock.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKUOpeningStock.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmShade.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmShade.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmSize.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmSize.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmQuality1.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmQuality1.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmDesign.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmDesign.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnMaster.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnMaster.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKU.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKU.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKUTransferIssue.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKUTransferIssue.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\FrmYarnSKUTransferReceive.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\FrmYarnSKUTransferReceive.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\TempStockTransferIssue.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\TempStockTransferIssue.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\TempSubGroup.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\TempSubGroup.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="Form\MDIMain.resx" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\Form\MDIMain.resx">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="My Project\app.manifest" Description="File successfully backed up as D:\Active Projects\RUG CARE\Project\RUG MAIN\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="RUG_Main.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RUG_Main" Source="RUG_Main.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RUG_Main.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RUG_Main.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RUG_Main" Source="RUG_Main.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

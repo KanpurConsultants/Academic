@@ -1,0 +1,91 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1    FR 2011       3	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Date	date	20/Oct/2011 12:00:00 AM	
+V_Type	string	255	FR	
+V_Prefix	string	255	2011	
+V_No	string	255	3/2011/FR/1/A	
+TotalLineAmount	number	10000	
+TotalLineDiscount	number	0	
+TotalLineNetAmount	number	10000	
+Advance	number	0	
+SubTotal1	number	10000	
+RegAdjustmentAmt	number	0	
+SubTotal2	number	10000	
+DiscountPer	number	0	
+DiscountAmount	number	0	
+TotalNetAmount	number	10000	
+Remark	string	255	Rec No. 1136	
+ReceiveAmount	number	10000	
+AdvanceCarriedForward	number	0	
+AdmissionDocId	string	255	A1 ADMSN 2011       7	
+TotalAdvanceAdjusted	number	0	
+IsAdjustableReceipt	boolean	False	
+TotalFeeReceiveAdjusted	number	0	
+FeeAdjustmentAc	string	255	A100000168	
+FeeReceiptAdjustmentAc	string	255		
+ScholarShipAmount	number	0	
+ScholarshipAdjustmentAc	string	255		
+CounselingFeeAdjusted	number	0	
+CounselingFeeAdjustmentAc	string	255		
+Amount	number	10000	
+Discount	number	0	
+NetAmount	number	10000	
+CashAc	string	255	A100000002	
+CashAmount	number	10000	
+BankAc	string	255		
+BankAmount	number	0	
+Bank_Code	string	255		
+Chq_No	string	255		
+Chq_Date	date		
+CardAc	string	255		
+CardAmount	number	0	
+CardBank_Code	string	255		
+Card_No	string	255		
+AcTransferBankAc	string	255		
+AcTransferAmount	number	0	
+AcTransferBank_Code	string	255		
+TotalAmount	number	10000	
+AcTransferAcNo	string	255		
+PartyDrCr	string	255	Cr	
+BankAc2	string	255		
+BankAmount2	number	0	
+Bank_Code2	string	255		
+Chq_No2	string	255		
+Chq_Date2	date		
+BankAc3	string	255		
+BankAmount3	number	0	
+Bank_Code3	string	255		
+Chq_No3	string	255		
+Chq_Date3	date		
+AdjustmentAc	string	255		
+AdjustmentAmount	number	0	
+AdjustmentRemark	string	255		
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+Site_Code1	string	255	1	
+StudentName	string	255	ARJUN . {904}	
+fee	string	255	HOSTEL FEE {HOSTEL}	
+CasAC	string	255	Cash a/c {cash}	
+BankAC1	string	255		
+BankAC21	string	255		
+BankAC31	string	255		
+Bank1	string	255		
+Bank2	string	255		
+Bank3	string	255		
+Adjustment	string	255		
+CardAC1	string	255		
+CardBank	string	255		
+ACTransferAC	string	255		
+ACTransferBank	string	255		
+ReportType	string	255	No	
+CurrentSemesterCode	string	255	A100000042	
+CurrentSemesterDesc	string	255	MBA/11-12/MBA/1/SEMESTER 2	
+SessionManualCode	string	255	11-12	
+SessionProgrammeDesc	string	255	MBA/11-12	
+StreamManualCode	string	255	MBA	
+ProgrammeManualCode	string	255	MBA	
+StudentDispName	string	255	ARJUN .	
+StudentManualCode	string	255	904	
+Category	string	255	A1000003	
+CategoryManualCode	string	255	OBC	

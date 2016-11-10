@@ -1,0 +1,28 @@
+D:\Dataman\Release\Academic_TimeTable.dll
+D:\Dataman\Release\Academic_TimeTable.pdb
+D:\Dataman\Release\Academic_TimeTable.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmEmployeeDayAttendance.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmReallocateTeacher.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmTimeTable.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.pdb
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmEmployeeDayAttendance.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmEnviro.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmReallocateTeacher.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.FrmTimeTable.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.Resources.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.MDIMain.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.dll
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.xml
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_TimeTable\obj\Debug\Academic_TimeTable.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_TimeTable.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_TimeTable.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_TimeTable.xml

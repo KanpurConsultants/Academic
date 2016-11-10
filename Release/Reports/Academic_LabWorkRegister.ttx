@@ -1,0 +1,25 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 LWORK 2011       1	
+V_Type	string	255	LWORK	
+V_No	long	1	
+V_Date	date	07/Apr/2011 12:00:00 AM	
+ReferenceNo	string	255	LWORK-2011-1	
+SubjectManualCode	string	255	ECS452	
+Remark	string	255		
+Experiment	string	255	Experiment 6	
+PerformedDate	date	07/Apr/2011 12:00:00 AM	
+SubmissionDate	date		
+StreamYearSemester	string	255	A100000152	
+SessionProgramme	string	255	B.Tech/10-11	
+Semester	string	255	B.Tech/10-11/IT/2/Semester 4	
+SiteName	string	255	PPT	
+Subject	string	255	DBMS Lab_IT {ECS452}	
+Teacher	string	255	Supriya Dubey {0375}	
+SemesterLine	string	255	B.Tech/10-11/IT/2/Semester 4	
+Student	string	255	Adarsh  Kumar  Dwivedi {1028713001}	
+AdmissionID	string	255	A/1/B.Tech/10-11/IT/00013	
+HOD	string	255	ATUL MATHUR {028}	
+ClassSectionDesc	string	255		
+SubSection	string	255		
+RollNo	string	255	1028713001	
+ReportType	string	255	Summary	

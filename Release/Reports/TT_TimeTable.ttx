@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+ApplyDate	date	01/Jan/2012 12:00:00 AM	
+WeekDayCode	short	7	
+WeekDayDesc	string	255	Saturday	
+ClassSectionSubSectionDesc	string	255		
+ClassSectionDesc	string	255	MBA_NVPMI/11/A	
+SessionDescription	string	255	2011-2012	
+SessionProgrammeDesc	string	255	MBA_NVPMI/11	
+SubjectDisplayName	string	255	Financial Managment	
+SubjectType	string	255	Theory	
+TeacherName	string	255	Kulpreet Kaur Chawla {268}	
+TimeSlotDesc	string	255	09:15 AM - 10:15 AM	
+TimeSlot	string	255	A1000001	
+FPrintDate	string	255	17/May/2012	
+StartTime	date	01/Jan/1900 9:15:00 AM	
+EndTime	date	01/Jan/1900 10:05:00 AM	
+SubSection	string	255		

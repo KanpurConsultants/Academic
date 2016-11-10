@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+Opening	number	0	
+Qty_Iss	number	0	
+Qty_Rec	number	5	
+ItemName	string	255	A.C. TOP PLUG	
+BatchNo	string	255		
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+DepartmentCode	string	255		
+DepartmentDesc	string	255		
+DepartmentManualCode	string	255		
+Item_Batch_Description	string	255	Batch No.	
+Unit	string	255	PCS	

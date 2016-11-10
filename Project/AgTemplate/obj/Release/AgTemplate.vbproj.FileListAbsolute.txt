@@ -1,0 +1,1263 @@
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.dll
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.xml
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.pdb
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.dll
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+\\node4\RUG CARE\Release\AgTemplate.dll
+\\node4\RUG CARE\Release\AgTemplate.pdb
+\\node4\RUG CARE\Release\AgTemplate.xml
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.dll
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.xml
+\\node4\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Active Projects\CarpetSoft\Release\AgTemplate.pdb
+D:\Active Projects\CarpetSoft\Release\AgTemplate.xml
+D:\Active Projects\CarpetSoft\Release\AgTemplate.dll
+\\node4\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmQCParameterDetail.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobIssue_WithoutBOM.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.Resources.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+\\node4\AgTemplate\obj\Release\AgTemplate.dll
+\\node4\AgTemplate\obj\Release\AgTemplate.xml
+\\node4\AgTemplate\obj\Release\AgTemplate.pdb
+\\node4\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue_WithoutBOM.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+\\node4\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Dataman\Release\AgTemplate.dll
+D:\Dataman\Release\AgTemplate.pdb
+D:\Dataman\Release\AgTemplate.xml
+H:\RUG\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempJobIssue_WithoutBOM.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.Resources.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+H:\RUG\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+H:\RUG\AgTemplate\obj\Release\AgTemplate.dll
+H:\RUG\AgTemplate\obj\Release\AgTemplate.xml
+H:\RUG\AgTemplate\obj\Release\AgTemplate.pdb
+H:\RUG\Rug Care\Rug Care\Release\AgTemplate.dll
+H:\RUG\Rug Care\Rug Care\Release\AgTemplate.pdb
+H:\RUG\Rug Care\Rug Care\Release\AgTemplate.xml
+E:\Arpit Gupta\Active Projects\Rug Care\Rug Care\Release\AgTemplate.dll
+E:\Arpit Gupta\Active Projects\Rug Care\Rug Care\Release\AgTemplate.pdb
+E:\Arpit Gupta\Active Projects\Rug Care\Rug Care\Release\AgTemplate.xml
+D:\Active Projects\Rug Care\Rug Care\Release\AgTemplate.dll
+D:\Active Projects\Rug Care\Rug Care\Release\AgTemplate.pdb
+D:\Active Projects\Rug Care\Rug Care\Release\AgTemplate.xml
+H:\Surya Carpet\Rug Care\Release\AgTemplate.dll
+H:\Surya Carpet\Rug Care\Release\AgTemplate.pdb
+H:\Surya Carpet\Rug Care\Release\AgTemplate.xml
+H:\Surya Carpet\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobIssueCommon.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobOrderWithoutBOM.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobIssueWithoutBOM.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.Resources.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.dll
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.xml
+H:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Surya Carpet\Rug Care\Release\AgTemplate.dll
+D:\Surya Carpet\Rug Care\Release\AgTemplate.pdb
+D:\Surya Carpet\Rug Care\Release\AgTemplate.xml
+D:\Surya Carpet\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobIssueCommon.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobOrderWithoutBOM.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobIssueWithoutBOM.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.Resources.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.dll
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.xml
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobOrderCommon.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobOrderCancel.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobReceiveWithBom.resources
+D:\Surya Carpet\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+E:\Arpit Gupta\Active Projects\Rug Care\Release\AgTemplate.dll
+E:\Arpit Gupta\Active Projects\Rug Care\Release\AgTemplate.pdb
+E:\Arpit Gupta\Active Projects\Rug Care\Release\AgTemplate.xml
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+\\node4\D\Active Projects\Rug Care\Release\AgTemplate.dll
+\\node4\D\Active Projects\Rug Care\Release\AgTemplate.pdb
+\\node4\D\Active Projects\Rug Care\Release\AgTemplate.xml
+\\node4\D\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+\\node4\D\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+\\node4\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+I:\Latest\Rug Care\Release\AgTemplate.dll
+I:\Latest\Rug Care\Release\AgTemplate.pdb
+I:\Latest\Rug Care\Release\AgTemplate.xml
+I:\Latest\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.Resources.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+I:\Latest\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+I:\Latest\AgTemplate\obj\Release\AgTemplate.dll
+I:\Latest\AgTemplate\obj\Release\AgTemplate.xml
+I:\Latest\AgTemplate\obj\Release\AgTemplate.pdb
+H:\Latest\Rug Care\Release\AgTemplate.dll
+H:\Latest\Rug Care\Release\AgTemplate.pdb
+H:\Latest\Rug Care\Release\AgTemplate.xml
+H:\Latest\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.Resources.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+H:\Latest\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+H:\Latest\AgTemplate\obj\Release\AgTemplate.dll
+H:\Latest\AgTemplate\obj\Release\AgTemplate.xml
+H:\Latest\AgTemplate\obj\Release\AgTemplate.pdb
+K:\Latest\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.Resources.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+K:\Latest\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+K:\Latest\AgTemplate\obj\Release\AgTemplate.dll
+K:\Latest\AgTemplate\obj\Release\AgTemplate.xml
+K:\Latest\AgTemplate\obj\Release\AgTemplate.pdb
+K:\Latest\Rug Care\Release\AgTemplate.dll
+K:\Latest\Rug Care\Release\AgTemplate.pdb
+K:\Latest\Rug Care\Release\AgTemplate.xml
+\\node3\Active Projects\Rug Care\Release\AgTemplate.dll
+\\node3\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+\\node3\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+H:\Active Projects\Rug Care\Release\AgTemplate.dll
+H:\Active Projects\Rug Care\Release\AgTemplate.pdb
+H:\Active Projects\Rug Care\Release\AgTemplate.xml
+H:\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+H:\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+K:\Active Projects\Rug Care\Release\AgTemplate.dll
+K:\Active Projects\Rug Care\Release\AgTemplate.pdb
+K:\Active Projects\Rug Care\Release\AgTemplate.xml
+K:\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+K:\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+E:\Arpit Gupta\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleChallan.resources
+D:\Active Projects\Rug Care\Release\AgTemplate.dll
+D:\Active Projects\Rug Care\Release\AgTemplate.pdb
+D:\Active Projects\Rug Care\Release\AgTemplate.xml
+D:\Active Projects\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleChallan.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.Resources.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.dll
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.xml
+D:\Active Projects\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Academic\Release\AgTemplate.dll
+D:\Academic\Release\AgTemplate.pdb
+D:\Academic\Release\AgTemplate.xml
+D:\Academic\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleChallan.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.dll
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.xml
+D:\Academic\Project\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Rati\Academic\Release\AgTemplate.dll
+D:\Rati\Academic\Release\AgTemplate.pdb
+D:\Rati\Academic\Release\AgTemplate.xml
+D:\Rati\Academic\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleChallan.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.dll
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.xml
+D:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.pdb
+E:\Rati\Academic\Release\AgTemplate.dll
+E:\Rati\Academic\Release\AgTemplate.pdb
+E:\Rati\Academic\Release\AgTemplate.xml
+E:\Rati\Academic\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleChallan.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.dll
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.xml
+E:\Rati\Academic\Project\AgTemplate\obj\Release\AgTemplate.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\AgTemplate.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\AgTemplate.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\AgTemplate.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportFormat.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReportWindow.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSearchReport.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobInvoice.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmProcess.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobExchange.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmJobQcDetail.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmReminder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmRemindMe.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempInvoice.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReceive.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobReturn.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobWorkerRateMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPaymentMultipleParty.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoice.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmLotWiseStock.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmSiteMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGateInOut.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPayment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPhysicalStockEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotSelectionSelection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCParameterDetail.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.FrmTransporter.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempBom.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempCity.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempDocumentMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormReceive.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempFormMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGodown.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempGr.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempItem.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempJobOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleChallan.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempMaterialPlan.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempProductionPlan.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndentReq.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseOrderConfirmation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchaseReturn.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchIndent.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchInvoiceCommon.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempPurchQuotation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQC.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempQCGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempRequisition.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSaleOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempShipmentEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockAdjustmentIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempStockTransferReceive.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempSubGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.TempVisitorsGateInOut.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\AgTemplate\obj\Release\AgTemplate.pdb

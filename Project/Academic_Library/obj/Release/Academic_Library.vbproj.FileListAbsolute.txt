@@ -1,0 +1,986 @@
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\RUG_Main.pdb
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmCarpetPurchaseQuotation.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.TempPurchQuotation.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmVendor.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmDepartment.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmEmployee.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmCarpetSaleOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmDefaultGodown.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmOtherMaterial.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmBuyerMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmOtherMaterialPurchaseIndent.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmOtherMaterialTransferIssue.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.FrmTaxPostingGroupEntry.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.TempPurchIndent.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.TempStockTransferIssue.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.TempSubGroup.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.Resources.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.MDIMain.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\Library\obj\Release\RUG_Main.pdb
+D:\Active Projects\Academic_Library\Academic_Library\Project\Library\obj\Release\RUG_Main.exe
+D:\Active Projects\Academic_Library\Academic_Library\Project\Library\obj\Release\RUG_Main.xml
+D:\Active Projects\Academic_Library\Academic_Library\Project\Library\obj\Release\RUG_Main.pdb
+D:\Active Projects\Academic_Library\Release\Academic_Library.exe
+D:\Active Projects\Academic_Library\Release\Academic_Library.pdb
+D:\Active Projects\Academic_Library\Release\Academic_Library.xml
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.TempPurchQuotation.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.TempPurchIndent.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.TempSubGroup.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.Resources.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.exe
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.xml
+D:\Active Projects\Academic_Library\Project\Library\obj\Release\Academic_Library.pdb
+D:\Active Projects\Academic\Release\Academic_Library.pdb
+D:\Active Projects\Academic\Release\Academic_Library.xml
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempGodown.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchQuotation.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchIndent.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempSubGroup.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempRequisition.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchIndentReq.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchaseOrder.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempSaleOrder.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Release\Academic_Library.exe
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Release\Academic_Library.pdb
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Release\Academic_Library.xml
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmDonetedBookIssue.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmDonetedApplication.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempGr.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempPurchaseOrder.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempPurchIndentReq.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempPurchInvoice.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempRequisition.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempGodown.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempPurchQuotation.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempPurchIndent.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempSaleOrder.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempSubGroup.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.exe
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.xml
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.pdb
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+E:\Arpit Gupta\Active Projects\Academic_Liberary\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonetedBookIssue.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonetedApplication.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempGr.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchaseOrder.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchIndentReq.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchInvoice.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempRequisition.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempGodown.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchQuotation.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchIndent.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempSaleOrder.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempSubGroup.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.exe
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+E:\Arpit Gupta\Active Projects\Academic\Release\Academic_Library.exe
+E:\Arpit Gupta\Active Projects\Academic\Release\Academic_Library.pdb
+E:\Arpit Gupta\Active Projects\Academic\Release\Academic_Library.xml
+E:\Arpit Gupta\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempGr.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempPurchInvoice.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Active Projects\Academic\Release\Academic_Library.exe
+D:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.exe
+D:\Active Projects\Academic_Lib\Release\Academic_Library.pdb
+D:\Active Projects\Academic_Lib\Release\Academic_Library.xml
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.xml
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.pdb
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+D:\Active Projects\Academic_Lib\Release\Academic_Library.dll
+D:\Active Projects\Academic_Lib\Project\Academic_Library\obj\Release\Academic_Library.dll
+D:\Release\Academic_Library.exe.config
+D:\Release\Academic_Library.exe
+D:\Release\Academic_Library.pdb
+D:\Release\Academic_Library.xml
+D:\Active Projects\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.Tree.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.Resources.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.exe
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.xml
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.pdb
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+D:\Active Projects\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+D:\Academic\Release\Academic_Library.exe.config
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.exe
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+D:\Academic\Release\Academic_Library.exe
+D:\Academic\Release\Academic_Library.pdb
+D:\Academic\Release\Academic_Library.xml
+D:\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+F:\Active Projects\Academic\Academic\Release\Academic_Library.dll.config
+F:\Active Projects\Academic\Academic\Release\Academic_Library.dll
+F:\Active Projects\Academic\Academic\Release\Academic_Library.pdb
+F:\Active Projects\Academic\Academic\Release\Academic_Library.xml
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+F:\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.dll
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+D:\Rati\Academic\Release\Academic_Library.pdb
+D:\Rati\Academic\Release\Academic_Library.xml
+D:\Rati\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Release\Academic_Library.dll.config
+D:\Rati\Academic\Release\Academic_Library.dll
+D:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.dll
+D:\Rati\Academic\Release\Academic_Library.exe.config
+E:\Rati\Academic\Release\Academic_Library.pdb
+E:\Rati\Academic\Release\Academic_Library.xml
+E:\Rati\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Library.dll.config
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Library.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Library.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Library.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+E:\Rati\Academic\Project\Release\Academic_Library.exe.config
+E:\Rati\Academic\Project\SiteWiseLibrary\Academic_Library\obj\Release\Academic_Library.xml
+E:\Rati\Academic\Project\SiteWiseLibrary\Academic_Library\obj\Release\Academic_Library.pdb
+E:\Rati\Academic\Release\Academic_Library.exe.config
+E:\Rati\Academic\Release\Academic_Library.exe
+E:\Rati\Academic\Project\Academic_Library\obj\Release\Academic_Library.exe
+F:\Active Projects\Academic\Release\Academic_Library.exe.config
+F:\Active Projects\Academic\Release\Academic_Library.exe
+F:\Active Projects\Academic\Release\Academic_Library.pdb
+F:\Active Projects\Academic\Release\Academic_Library.xml
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.exe
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+F:\Active Projects\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb
+D:\Active Project\Academic\Release\Academic_Library.exe.config
+D:\Active Project\Academic\Release\Academic_Library.exe
+D:\Active Project\Academic\Release\Academic_Library.pdb
+D:\Active Project\Academic\Release\Academic_Library.xml
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\ResolveAssemblyReference.cache
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.AccessionEntry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberVisit.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryQuatation.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssue.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmReplacementEntry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSale.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapSaleRequistion.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookNew.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportBookFromExcel.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportFromExcel.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportSubjectFromExcel.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmNewBook.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassificationDisplay.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchPanel.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubjectClassification.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookItemGenerate.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPaymentEntry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBillEntry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBinder.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBuyerMaster.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmImportAccessationFromExcel.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmVendor.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueToBranch.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffGenerals.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBooksReceived.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBarCodePrint.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryIssueEntry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSearchResult.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.frmaccessionentry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookIssueOld.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseInvoice.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBooksReceived.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecd.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmPeriodicalRecdYearly.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleOld.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSaleQuotation.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmScrapCategory.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedBookIssue.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchaseInvoice.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryReceived.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmWriteoffBooks.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDI_Lib.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempBookIssue.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseOrder.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDonatedApplication.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmStationaryPurchOrder.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookQuatation.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookPurchaseIndent.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookRequisition.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGeneralSubscription.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEnviro.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMember.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmItem.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGenerals.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmGodown.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmSubject1.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBook.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmBookType.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmMemberType.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetPurchaseQuotation.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDepartment.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmEmployee.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmCarpetSaleOrder.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmDefaultGodown.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterial.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialPurchaseIndent.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmOtherMaterialTransferIssue.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.FrmTaxPostingGroupEntry.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockAdjustmentIssue.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.TempStockTransferIssue.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.Tree.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.Resources.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.MDIMain.resources
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.exe
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.xml
+D:\Active Project\Academic\Project\Academic_Library\obj\Release\Academic_Library.pdb

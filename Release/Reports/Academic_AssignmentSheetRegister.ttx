@@ -1,0 +1,21 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 ASEET 2011      14	
+V_Type	string	255	ASEET	
+V_No	long	14	
+V_Date	date	25/Feb/2012 12:00:00 AM	
+ReferenceNo	string	255	ASEET-2011-14	
+SubjectManualCode	string	255	EAS 203	
+Unit	string	255	2	
+Topic	string	255	Laplace Transform	
+CompletionDate	date		
+TotalQuestion	number	1	
+TotalReference	number	0	
+Remark	string	255		
+TotalDocuments	number	0	
+Question	string	255	Laplace Transform	
+SessionProgramme	string	255	B.Tech/11-12	
+Semester	string	255	B.Tech/11-12/IT/1/Semester 2	
+SiteName	string	255	PPT	
+Subject	string	255	Mathematice-II {EAS 203}	
+Teacher	string	255	Yogendra Singh {0190}	
+ReportType	string	255	Summary	

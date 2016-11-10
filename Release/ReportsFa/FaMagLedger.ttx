@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+Sub	string	10		
+Date	string	12	20/03/12	
+DocNo	string	29	A1/REC/1	
+VType	string	10	REC	
+VNo	string	12	1	
+ACName	string	123	To Caution Money Fee {Cau_Fee}	
+BalChild	string	17		
+Debit	string	14	150.00	
+Credit	string	14		
+Balance	string	17	150.00 Dr	
+CODE	string	10		
+SUBCODE	string	10	A100000004	
+DocId	string	29	A1   REC 2011       1	
+ACName1	string	123	Cash A/c {Cash_Colg}	
+PDate	date	20/Mar/2012 12:00:00 AM	
+Val	number	1	

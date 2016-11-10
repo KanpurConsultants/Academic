@@ -1,0 +1,72 @@
+D:\Active Projects\Academic\Release\Academic_Enquiry.pdb
+D:\Active Projects\Academic\Release\Academic_Enquiry.xml
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryEntry.resources
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnviro.resources
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmSubjectMarks.resources
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.Resources.resources
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.MDIMain.resources
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.xml
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.pdb
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupEntry.resources
+D:\Active Projects\Academic\Release\Academic_Enquiry.dll.config
+D:\Active Projects\Academic\Release\Academic_Enquiry.dll
+D:\Active Projects\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.dll
+D:\Rati\Academic\Release\Academic_Enquiry.pdb
+D:\Rati\Academic\Release\Academic_Enquiry.xml
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupReminder.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupEntry.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryEntry.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmImportFromExcel.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryReAssignEntry.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmSubjectMarks.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.Resources.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.xml
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.pdb
+D:\Rati\Academic\Release\Academic_Enquiry.exe.config
+D:\Rati\Academic\Release\Academic_Enquiry.exe
+D:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.exe
+E:\Rati\Academic\Release\Academic_Enquiry.pdb
+E:\Rati\Academic\Release\Academic_Enquiry.xml
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupReminder.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupEntry.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryEntry.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmImportFromExcel.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryReAssignEntry.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmSubjectMarks.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.Resources.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.xml
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Enquiry.dll.config
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Enquiry.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Enquiry.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Enquiry.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupReminder.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmFollowupEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmImportFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnquiryReAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.pdb
+E:\Rati\Academic\Release\Academic_Enquiry.exe.config
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmEnviro.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmGodown.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmProspectusMaster.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmProspectusPurchase.resources
+E:\Rati\Academic\Release\Academic_Enquiry.exe
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmProspectusStockAdjustment.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.FrmProspectusSale.resources
+E:\Rati\Academic\Project\Academic_Enquiry\obj\Release\Academic_Enquiry.exe

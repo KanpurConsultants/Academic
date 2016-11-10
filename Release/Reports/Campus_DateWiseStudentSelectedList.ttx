@@ -1,0 +1,26 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1  CPLC 2011       1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Type	string	255	CPLC	
+V_Prefix	string	255	2011	
+V_No	long	1	
+V_Date	date	02/Jun/2011 12:00:00 AM	
+ReferenceNo	string	255	CPLC-2011-1	
+JoiningDate	date	01/Jun/2012 12:00:00 AM	
+Package	number	120000	
+Desigantion	string	255	Manager	
+CompanyName	string	255	Infosiys	
+Session	string	255	12-13	
+Site_Name	string	255	Naraina College of Engineering & Technology	
+Student	string	255	Aakash Gupta {1028710001}	
+DispStudentName	string	255	Aakash Gupta	
+Semester	string	255	B.Tech/08-09/CS/1/Semester 2	
+Add1	string	255	11/3 Nagar Maha Palica Dada Nagar	
+Add2	string	255	Colony Kanpur	
+Add3	string	255		
+Phone	string	255	915490669	
+Mobile	string	255	7275226648	
+FatherName	string	255	Girish Chandra Gupta	
+MotherName	string	255	Pushpa Gupta	
+CityName	string	255	KANPUR	

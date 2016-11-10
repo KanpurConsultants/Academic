@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B24A827D-4755-4A74-9EB8-714CE7C7FAB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Academic_Hostel.My.MyApplication</StartupObject>
+    <RootNamespace>Academic_Hostel</RootNamespace>
+    <AssemblyName>Academic_Hostel</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>false</GenerateManifests>
+    <ExcludedPermissions>
+    </ExcludedPermissions>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\Release\</OutputPath>
+    <DocumentationFile>Academic_Hostel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Release\</OutputPath>
+    <DocumentationFile>Academic_Hostel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Academic_Objects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Academic_ProjLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AgControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AgLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Interop.ADODB, Version=2.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Topctrl, Version=1.0.4168.34907, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\ClsFunction.vb" />
+    <Compile Include="Class\ClsMain.vb" />
+    <Compile Include="Class\ClsReportProcedures.vb" />
+    <Compile Include="Form\FrmMemberStatus.Designer.vb">
+      <DependentUpon>FrmMemberStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmMemberStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeAdvance.designer.vb">
+      <DependentUpon>FrmRoomChargeAdvance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeAdvance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeRefund.Designer.vb">
+      <DependentUpon>FrmRoomChargeRefund.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeRefund.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmBuilding.Designer.vb">
+      <DependentUpon>FrmBuilding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmBuilding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmBuildingFloorMaster.designer.vb">
+      <DependentUpon>FrmBuildingFloorMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmBuildingFloorMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeDue.Designer.vb">
+      <DependentUpon>FrmRoomChargeDue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeDue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmChargeGroup.Designer.vb">
+      <DependentUpon>FrmChargeGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmChargeGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmChargeMaster.Designer.vb">
+      <DependentUpon>FrmChargeMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmChargeMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeReceive.Designer.vb">
+      <DependentUpon>FrmRoomChargeReceive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomChargeReceive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmEnviro.designer.vb">
+      <DependentUpon>FrmEnviro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmEnviro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmFloorMaster.designer.vb">
+      <DependentUpon>FrmFloorMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmFloorMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmHostelMaster.designer.vb">
+      <DependentUpon>FrmHostelMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmHostelMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoom.Designer.vb">
+      <DependentUpon>FrmRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomAllotment.Designer.vb">
+      <DependentUpon>FrmRoomAllotment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomAllotment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomLeft.Designer.vb">
+      <DependentUpon>FrmRoomLeft.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomLeft.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomStatusDisplay.Designer.vb">
+      <DependentUpon>FrmRoomStatusDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomStatusDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomTransfer.Designer.vb">
+      <DependentUpon>FrmRoomTransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomTransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoomType.Designer.vb">
+      <DependentUpon>FrmRoomType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoomType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\MdlFunction.vb" />
+    <Compile Include="Modules\MdlVar.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form\MDIMain.designer.vb">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MDIMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\FrmMemberStatus.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmMemberStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomChargeAdvance.resx">
+      <DependentUpon>FrmRoomChargeAdvance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomChargeRefund.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomChargeRefund.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmBuilding.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmBuilding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmBuildingFloorMaster.resx">
+      <DependentUpon>FrmBuildingFloorMaster.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomChargeDue.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomChargeDue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmChargeGroup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmChargeGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmChargeMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmChargeMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomChargeReceive.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomChargeReceive.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmEnviro.resx">
+      <DependentUpon>FrmEnviro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmFloorMaster.resx">
+      <DependentUpon>FrmFloorMaster.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmHostelMaster.resx">
+      <DependentUpon>FrmHostelMaster.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoom.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomAllotment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomAllotment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomLeft.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomLeft.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomStatusDisplay.resx">
+      <DependentUpon>FrmRoomStatusDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomTransfer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomTransfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoomType.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmRoomType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MDIMain.resx">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tree_Child.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dataman.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy1-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

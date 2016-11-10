@@ -1,0 +1,11 @@
+..\..\Release\Academic_Enquiry.dll
+..\..\Release\Academic_Enquiry.pdb
+..\..\Release\Academic_Enquiry.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Academic_Enquiry.FrmEnviro.resources
+obj\Release\Academic_Enquiry.Resources.resources
+obj\Release\Academic_Enquiry.MDIMain.resources
+obj\Release\Academic_Library.vbproj.GenerateResource.Cache
+obj\Release\Academic_Enquiry.dll
+obj\Release\Academic_Enquiry.xml
+obj\Release\Academic_Enquiry.pdb

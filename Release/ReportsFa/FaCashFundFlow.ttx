@@ -1,0 +1,10 @@
+; Field definition file for table: ADORecordset
+CodeCr	string	10	0027	
+SourceOfFund	string	123	Indirect Incomes	
+QtyCr	string	12		
+AmtCr	string	14	1.00	
+Seperator	string	1	|	
+CodeDr	string	10	0021	
+ApplicationOfFund	string	123	Cash-in-Hand	
+QtyDr	string	12		
+AmtDr	string	14	1.00	

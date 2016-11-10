@@ -1,0 +1,89 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Store.dll.config
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Store.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Store.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Store.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmGodown.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmissueReceive.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItemCategory.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItemGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchase.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmSale.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItem.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmUnit.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Store\obj\Release\Academic_Store.dll
+D:\Rati\Academic\Release\Academic_Store.exe.config
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.xml
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.pdb
+D:\Rati\Academic\Project\Academic_Store\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchaseOrder.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchaseIndent.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmEnviro.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmGodown.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmissueReceive.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItemCategory.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItemGroup.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchase.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmRequisition.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmSale.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItem.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmUnit.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.Resources.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.vbproj.GenerateResource.Cache
+E:\Rati\ITI\Project\Academic_Store\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmGRN.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchaseOrder.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchaseIndent.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmEnviro.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmGodown.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmissueReceive.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmItemCategory.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmItemGroup.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchase.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmRequisition.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmSale.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmItem.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmUnit.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.Resources.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.MDIMain.resources
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.vbproj.GenerateResource.Cache
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.xml
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.pdb
+E:\Rati\Academic\Release\Academic_Store.exe.config
+E:\Rati\Academic\Release\Academic_Store.exe
+E:\Rati\Academic\Release\Academic_Store.pdb
+E:\Rati\Academic\Release\Academic_Store.xml
+E:\Rati\Academic\Project\Academic_Store\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmGRN.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchaseOrder.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchaseIndent.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmEnviro.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmGodown.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmissueReceive.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItemCategory.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItemGroup.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmPurchase.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmRequisition.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmSale.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmItem.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmUnit.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.FrmVehicleGateInOut.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.Resources.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.exe
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.xml
+E:\Rati\Academic\Project\Academic_Store\obj\Release\Academic_Store.pdb
+E:\Rati\ITI\Release\Academic_Store.pdb
+E:\Rati\ITI\Release\Academic_Store.xml
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.FrmVehicleGateInOut.resources
+E:\Rati\ITI\Release\Academic_Store.dll.config
+E:\Rati\ITI\Release\Academic_Store.dll
+E:\Rati\ITI\Project\Academic_Store\obj\Release\Academic_Store.dll

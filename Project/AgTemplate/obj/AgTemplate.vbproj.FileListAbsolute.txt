@@ -1,0 +1,45 @@
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\AgTemplate.dll
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\AgTemplate.pdb
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\AgTemplate.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.TempMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.TempTransaction.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.Resources.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.MDIMain.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.dll
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.pdb
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+D:\Active Projects\RUG CARE\Release\AgTemplate.dll
+D:\Active Projects\RUG CARE\Release\AgTemplate.pdb
+D:\Active Projects\RUG CARE\Release\AgTemplate.xml
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.dll
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.xml
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.pdb
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.TempMaster.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.TempTransaction.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.Resources.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.MDIMain.resources
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.vbproj.GenerateResource.Cache
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.dll
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.xml
+D:\Active Projects\RUG CARE\Project\AgTemplate\obj\Debug\AgTemplate.pdb
+G:\Rug\RUG CARE\Release\AgTemplate.dll
+G:\Rug\RUG CARE\Release\AgTemplate.pdb
+G:\Rug\RUG CARE\Release\AgTemplate.xml
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\ResolveAssemblyReference.cache
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempMaster.resources
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.TempTransaction.resources
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.Resources.resources
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.MDIMain.resources
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.vbproj.GenerateResource.Cache
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.dll
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.xml
+G:\Rug\RUG CARE\Project\AgTemplate\obj\Release\AgTemplate.pdb

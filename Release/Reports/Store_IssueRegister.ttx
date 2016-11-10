@@ -1,0 +1,63 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 STISS 2012       1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Type	string	255	STISS	
+V_Prefix	string	255	2012	
+V_No	long	1	
+Bill DATE	string	255	01/Apr/2012	
+Item	string	255	A1000004	
+Item_Nature1	string	255		
+Item_Nature2	string	255		
+BatchNo	string	255		
+IssueReceive	string	255	Issue	
+Qty_Iss	number	10	
+Rate	number	110	
+Amount	number	1100	
+Addition	number	0	
+Deduction	number	0	
+NetAmount	number	1100	
+Addition_H	number	0	
+Deduction_H	number	0	
+LandedAmount	number	0	
+Remark	string	255		
+RowId	long	23	
+UpLoadDate	date		
+Godown	string	255	A1000001	
+Div_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+GodownDesc	string	255	Central Store	
+GodownManualCode	string	255	Main Store	
+StockAdjustmentDocId	string	255	A1 STISS 2012       1	
+DepartmentCode	string	255	A1000002	
+DepartmentDesc	string	255	MBA DEPARTMENT	
+DepartmentManualCode	string	255	MBA	
+PartyCode	string	255	A100000183	
+PartyName	string	255	Dr. JATIN KUMAR SRIVASTAVA {01}	
+PartyDispName	string	255	Dr. JATIN KUMAR SRIVASTAVA	
+PartyManualCode	string	255	01	
+PartyNature	string	255	Supplier	
+PartyGroupCode	string	255	0042	
+PartyGroupName	string	255	TEACHER	
+PartyAdd1	string	255	B-225,RAJAJIPURAM LUCKNOW	
+PartyAdd2	string	255		
+PartyAdd3	string	255		
+CityCode	string	255	S10012	
+CityName	string	255	LUCKNOW	
+District	string	255	LUCKNOW	
+StateName	string	255	UTTAR PRADESH	
+StateShortName	string	255	U.P.	
+Country	string	255	INDIA	
+PIN	string	255	226017	
+VoucherTypeDesc	string	255	Store Issue	
+NCat	string	255	STISS	
+ItemDesc	string	255	A-4 Paper	
+ItemManualCode	string	255	A-4 Paper	
+UnitDesc	string	255	PCS	
+ItemGroupCode	string	255	A1000002	
+ItemGroupDesc	string	255	STATIONARY ITEM	
+ItemCategoryManualCode	string	255	NONSALABLE	
+Department2	string	255	STORE	
+IssueVoucherNo	string	255	1/2012/STISS/1/A	
+Description	string	255		
+Description1	string	255		

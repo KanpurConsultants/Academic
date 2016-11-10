@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1 SPIND 2011       1	
+V_Type	string	255	SPIND	
+V_Prefix	string	255	2011	
+V_Date	date	10/May/2011 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+subcode	string	255	A100000186	
+Remark	string	255		
+TotalQty	number	10	
+ReferenceNo	string	255	SPIND-2011-1	
+Remarkheader	string	255		
+Sr	number	1	
+Item	string	255	A1000011	
+RequireQty	number	10	
+IndentQty	number	10	
+Unit	string	255	A1000002	
+RequireDate	date	15/May/2012 12:00:00 AM	
+SiteName	string	255	GLOBAL GROUP OF INSTITUTIONS	
+ItemName	string	255	Board Duster	
+Indentor	string	255	AVINASH  KUMAR PAL {12}	
+ItemDescription	string	255		

@@ -1,0 +1,59 @@
+; Field definition file for table: ADORecordset
+AdmissionId	string	255	A/1/MBA/11-12/MBA/00001	
+StudentName	string	255	ABHISHEK  SINGH {997}	
+Site_Code	string	255	1	
+AdmissionDocId	string	255	A1 ADMSN 2011       4	
+OpeningDr	number	0	
+OpeningCr	number	0	
+OpeningNetDr	number	0	
+OpeningNetCr	number	0	
+OpeningAdvanceReceive	number	0	
+OpeningBalanceLedger	number	0	
+OpeningNetBal	number	0	
+DueAmt	number	125100	
+LineAmount	number	45800	
+LineDiscount	number	0	
+LineNetAmount	number	45800	
+AdvanceBF	number	0	
+AdjustmentAmount	number	9000	
+DiscountAmount	number	0	
+TotalAdvanceAdjusted	number	0	
+TotalFeeReceiveAdjusted	number	0	
+TotalNetAmount	number	36800	
+TotalFeeRecvCrAmt	number	45800	
+RefundAmt	number	0	
+AdvanceAmt	number	0	
+CurrentDr	number	79300	
+CurrentCr	number	0	
+CurrentNetDr	number	79300	
+CurrentNetCr	number	0	
+CurrentAdvanceReceive	number	0	
+CurrentBalanceLedger	number	0	
+CurrentNetBal	number	79300	
+ClosingDr	number	79300	
+ClosingCr	number	0	
+ClosingNetDr	number	79300	
+ClosingNetCr	number	0	
+ClosingAdvanceReceive	number	0	
+ClosingBalanceLedger	number	0	
+ClosingNetBal	number	79300	
+ReverseDueAmt	number	0	
+CounselingFeeAdjusted	number	0	
+ScholarShipAmount	number	0	
+OpeningLedgerDr	number	0	
+OpeningLedgerCr	number	0	
+CurrentLedgerDr	number	0	
+CurrentLedgerCr	number	0	
+OpeningFeeReceiveAmt	number	0	
+CurrentFeeReceiveAmt	number	36800	
+StreamYearSemesterDesc	string	255	MBA/11-12/MBA/1/SEMESTER 2	
+SessionProgrammeStreamYearDesc	string	255	MBA/11-12/MBA/1	
+SessionProgrammeDesc	string	255	MBA/11-12	
+SessionProgrammeStreamDesc	string	255	MBA/11-12/MBA	
+SessionManualCode	string	255	11-12	
+ProgrammeManualCode	string	255	MBA	
+StreamManualCode	string	255	MBA	
+SemesterSerialNo	short	2	
+YearSerial	number	1	
+CategoryManualCode	string	255	GEN	
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	

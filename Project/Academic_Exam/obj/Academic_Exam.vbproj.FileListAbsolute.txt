@@ -1,0 +1,110 @@
+D:\Dataman\Release\Academic_Exam.pdb
+D:\Dataman\Release\Academic_Exam.xml
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmEnviro.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmExamType.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSemesterExamAdmission.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmStreamYearSemesterExam.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSubjectMarksEntry.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.Resources.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.MDIMain.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.xml
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.pdb
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmEnviro.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmExamType.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSemesterExamAdmission.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmStreamYearSemesterExam.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSubjectMarksEntry.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.Resources.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.MDIMain.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.xml
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.pdb
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.exe
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.exe
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+D:\Active Projects\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmExamType.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSemesterExamAdmission.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmStreamYearSemesterExam.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSubjectMarksEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.pdb
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\ResolveAssemblyReference.cache
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmEnviro.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmExamType.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSemesterExamAdmission.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmStreamYearSemesterExam.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSubjectMarksEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.Resources.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.MDIMain.resources
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.vbproj.GenerateResource.Cache
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.dll
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.xml
+\\Node2\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.dll
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmEnviro.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmExamType.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSemesterExamAdmission.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmStreamYearSemesterExam.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSubjectMarksEntry.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.Resources.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.MDIMain.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.dll
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.xml
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.pdb
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.xml
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.pdb
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\ResolveAssemblyReference.cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmEnviro.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmExamType.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSemesterExamAdmission.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmStreamYearSemesterExam.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.FrmSubjectMarksEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.Resources.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.MDIMain.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.vbproj.GenerateResource.Cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Debug\Academic_Exam.exe
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\ResolveAssemblyReference.cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmEnviro.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmExamType.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSemesterExamAdmission.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmStreamYearSemesterExam.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSubjectMarksEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.Resources.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.MDIMain.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.vbproj.GenerateResource.Cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.dll
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.xml
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.pdb
+D:\Dataman\Release\Academic_Exam.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmExamType.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSemesterExamAdmission.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmStreamYearSemesterExam.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.FrmSubjectMarksEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Exam\obj\Release\Academic_Exam.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Exam.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Exam.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Exam.xml

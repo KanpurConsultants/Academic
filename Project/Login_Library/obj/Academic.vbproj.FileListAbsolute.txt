@@ -1,0 +1,61 @@
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.exe
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.xml
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.pdb
+D:\Dataman\Release\Academic.exe
+D:\Dataman\Release\Academic.pdb
+D:\Dataman\Release\Academic.xml
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.exe
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.xml
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.pdb
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.exe
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.xml
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.pdb
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.exe
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.xml
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.pdb
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.xml

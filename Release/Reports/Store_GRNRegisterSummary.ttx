@@ -1,0 +1,77 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1   GRN 2011       1	
+V_Type	string	255	GRN	
+V_Prefix	string	255	2011	
+V_Date	date	01/Jun/2011 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+RemarkHeader	string	255		
+ReferenceNo	string	255	GRN-2011-1	
+DocumentNo	string	255	1	
+DocumentDate	date	01/Jun/2011 12:00:00 AM	
+SalesTaxGroupParty	string	255	Central {Form `C`}	
+Amount	number	120	
+NetAmount	number	120	
+NetSubTotal	number	120	
+RoundOff	number	0	
+InvoiceAmount	number	120	
+TotalQty	number	1	
+ACcode	string	255	A100001757	
+Remark	string	255		
+Sr	number	1	
+Item	string	255	A1000002	
+Qty	number	1	
+Rate	number	120	
+LineAmount	number	120	
+Unit	string	255	A1000001	
+BatchNo	string	255		
+DocQty	number	1	
+LineNetAmount	number	120	
+LandedAmount	number	0	
+SiteName	string	255	Naraina College of Engineering & Technology	
+Godown	string	255		
+Order No	string	255	SPO-1	
+ItemName	string	255	PENCILS	
+Supplier	string	255	Rati	
+ItemDescription	string	255	PENCILS	
+UID	string	255		
+DocID1	string	255	A1   GRN 2011       1	
+SF_Gross Amount	number	120	
+SF_Header Addition	number	0	
+SF_Header Addition_Per	number	0	
+SF_Header Deduction	number	0	
+SF_Header Deduction_Per	number	0	
+SF_Line Addition	number	0	
+SF_Line Addition_Per	number	0	
+SF_Line Deduction	number	0	
+SF_Line Deduction_Per	number	0	
+SF_Line Net Amount	number	120	
+SF_Net Amount	number	120	
+SF_Net Subtotal	number	120	
+SF_Round Off	number	0	
+SF_RecordCount	number	9	
+UID1	string	255		
+DocID2	string	255	A1   GRN 2011       1	
+TSR	number	1	
+SL_Gross Amount	number	120	
+SL_Header Addition	number	0	
+SL_Header Addition_Per	number	0	
+SL_Header Deduction	number	0	
+SL_Header Deduction_Per	number	0	
+SL_Line Addition	number	0	
+SL_Line Addition_Per	number	0	
+SL_Line Deduction	number	0	
+SL_Line Deduction_Per	number	0	
+SL_Line Net Amount	number	120	
+SL_Net Amount	number	120	
+SL_Net Subtotal	number	120	
+SL_Round Off	number	0	
+SL_RecordCount	number	9	
+Add1	string	255		
+Add2	string	255		
+Add3	string	255		
+PIN	string	255		
+CityName	string	255		
+Phone	string	255		
+Mobile	string	255		

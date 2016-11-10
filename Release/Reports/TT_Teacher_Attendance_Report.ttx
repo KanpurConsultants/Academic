@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+A_Date	date	05/Mar/2012 12:00:00 AM	
+PreparedBy	string	255	sa	
+Name	string	255	ABHISHEK DWIVEDI {358}	
+Present/Absent	string	255	Present	
+TotalPresent	number	1	
+TotalAbsent	number	0	

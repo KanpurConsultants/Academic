@@ -1,0 +1,20 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1   MMA 2012       1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Type	string	255	MMA	
+V_Prefix	string	255	2012	
+V_No	long	1	
+V_Date	date	25/May/2012 12:00:00 AM	
+ReferenceNo	string	255	25052012-1	
+Shift	string	255	Break Fast	
+TotalMember	number	2	
+TotalPresent	number	2	
+TotalAbsent	number	0	
+Remark	string	255		
+IsPresent	boolean	True	
+SiteName	string	255	Naraina College of Engineering & Technology	
+DivisionName	string	255	Maa Bhagwati Devi Shiksha Seva Samiti	
+Member	string	255	Mohammad Farid {1028710044}	
+MemberType	string	255	Student	
+Present	string	255	Yes	

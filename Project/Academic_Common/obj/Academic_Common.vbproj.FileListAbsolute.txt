@@ -1,0 +1,106 @@
+D:\Dataman\Release\Academic_Common.pdb
+D:\Dataman\Release\Academic_Common.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmAreamast.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmDepartment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmRouteMast.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmAdmissionNature.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmCategory.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmClassRoom.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmDocument.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmOccupation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmProgramme.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmProgrammeNature.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmReligion.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmSemester.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmSession.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmStream.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmSubject.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmSubjectGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmTimeSlot.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.FrmUniversity.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.pdb
+D:\Dataman\Release\Academic_Common.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Common.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmAreamast.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmDepartment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmRouteMast.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmAdmissionNature.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmCategory.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmClassRoom.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmDocument.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmOccupation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmProgramme.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmProgrammeNature.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmReligion.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSemester.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSession.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmStream.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSubject.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSubjectGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmTimeSlot.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmUniversity.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.pdb
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmAreamast.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmDepartment.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmRouteMast.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmAdmissionNature.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmCategory.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmClassRoom.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmDocument.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmOccupation.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmProgramme.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmProgrammeNature.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmReligion.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSemester.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSession.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmStream.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSubject.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSubjectGroup.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmTimeSlot.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmUniversity.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.Resources.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.MDIMain.resources
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.dll
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.xml
+D:\Active Projects\Academic_03Apr2011\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.pdb
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\ResolveAssemblyReference.cache
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmAreamast.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmDepartment.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmRouteMast.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmAdmissionNature.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmCategory.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmClassRoom.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmDocument.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmOccupation.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmProgramme.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmProgrammeNature.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmReligion.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSemester.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSession.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmStream.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSubject.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmSubjectGroup.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmTimeSlot.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.FrmUniversity.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.Resources.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.MDIMain.resources
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.vbproj.GenerateResource.Cache
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.dll
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.xml
+F:\Ashish\Active Projects\Academic\Academic\Project\Academic_Common\obj\Release\Academic_Common.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Common.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Common.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Common.xml

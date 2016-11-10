@@ -1,0 +1,296 @@
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.xml
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.pdb
+D:\Dataman\Release\Academic_Main.pdb
+D:\Dataman\Release\Academic_Main.xml
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmAdmissionNature.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmCategory.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmDocument.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmEnviro.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmFee.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmFeeGroup.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmOccupation.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmProgramme.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmProgrammeNature.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmRegistrationEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmReligion.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSemester.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSession.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSessionProgramme.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmStream.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmStreamYearSemesterSubject.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmStudentMaster.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSubject.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSubjectGroup.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmUniversity.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.Resources.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.MDIMain.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.vbproj.GenerateResource.Cache
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionNature.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmCategory.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocument.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFee.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeGroup.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOccupation.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgramme.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgrammeNature.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmReligion.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemester.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSession.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStream.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubject.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectGroup.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmUniversity.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmAdmissionEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmClass.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmClassRoom.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmFeeDueEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmFeeReceiveEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSectionAssignEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmStreamYearSemesterFee.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmStudentAttendance.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmSubjectSwap.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmTeacher.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.FrmTimeSlot.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Release\Academic_Main.exe
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClass.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassRoom.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeDueEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeReceiveEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterFee.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTimeSlot.resources
+D:\Active Projects\Dot Net Projects\Academic\Project\Academic_Main\obj\Debug\Academic_Main.dll
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdvance.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAreamast.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDepartment.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeRefundEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRouteMast.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionNature.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmCategory.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassRoom.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocument.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFee.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeDueEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeGroup.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeReceiveEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOccupation.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgramme.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgrammeNature.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmReligion.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemester.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSession.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStream.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterFee.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubject.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectGroup.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTimeSlot.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmUniversity.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+E:\PD\Active Projects\Academic\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.exe
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdvance.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAreamast.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDepartment.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeRefundEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRouteMast.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionNature.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmCategory.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassRoom.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocument.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFee.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeDueEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeGroup.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeReceiveEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOccupation.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgramme.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgrammeNature.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmReligion.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemester.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSession.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStream.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterFee.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubject.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectGroup.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTimeSlot.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmUniversity.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+D:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdvance.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAreamast.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDepartment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeRefundEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmComposeMail.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRouteMast.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionNature.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmCategory.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassRoom.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocument.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFee.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeDueEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeReceiveEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOccupation.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgramme.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgrammeNature.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmReligion.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemester.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSession.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStream.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterFee.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubject.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTimeSlot.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmUniversity.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdvance.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAreamast.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDepartment.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeRefundEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmComposeMail.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRouteMast.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionNature.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmCategory.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassRoom.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocument.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFee.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeDueEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeGroup.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmFeeReceiveEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOccupation.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgramme.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmProgrammeNature.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmReligion.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemester.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSession.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStream.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterFee.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubject.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectGroup.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTimeSlot.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmUniversity.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.dll
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+\\Node2\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+D:\Dataman\Release\Academic_Main.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Main.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Main.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Common\obj\Debug\Academic_Main.pdb

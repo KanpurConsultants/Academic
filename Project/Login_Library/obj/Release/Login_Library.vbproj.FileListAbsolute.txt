@@ -1,0 +1,16 @@
+\\arpit-pc\Active Project\Vidya\Release\Library_Login.exe.config
+\\arpit-pc\Active Project\Vidya\Release\Library_Login.exe
+\\arpit-pc\Active Project\Vidya\Release\Library_Login.pdb
+\\arpit-pc\Active Project\Vidya\Release\Library_Login.xml
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\ResolveAssemblyReference.cache
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.FrmCompany.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.FrmDivisionSelection.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.FrmLogin.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.FrmServerNotFound.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.FrmSiteSelection.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.MDIMain.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.Resources.resources
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Login_Library.vbproj.GenerateResource.Cache
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.exe
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.xml
+\\arpit-pc\Active Project\Vidya\Project\Login_Library\obj\Release\Library_Login.pdb

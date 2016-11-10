@@ -1,0 +1,28 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1   ENQ 2011       9	
+VoucherNo	string	255	9/2011/ENQ/1/A	
+Site_Code	string	255	1	
+V_Date	date	09/Jan/2012 12:00:00 AM	
+EnquiryMode	string	255	Walking At Office	
+EnquiryByName	string	255	R K  Sengar	
+SessionProgramme	string	255		
+SessionProgrammeStream	string	255		
+Name	string	255	Apoorv Tiwari  	
+Address	string	255	 	
+City	string	255		
+Mobile	string	255	7275339654	
+EMail	string	255		
+Sex	string	255		
+DOB	date		
+CategoryDesc	string	255		
+ReligionDesc	string	255		
+Phone	string	255		
+FatherName	string	255		
+MotherName	string	255		
+FatherIncome	number	0	
+MotherIncome	number	0	
+FatherOccupationDesc	string	255		
+MotherOccupationDesc	string	255		
+FollowupDocId	string	255		
+SiteName	string	255	GLOBAL GROUP OF INSTITUTIONS	
+Status	string	255	New	

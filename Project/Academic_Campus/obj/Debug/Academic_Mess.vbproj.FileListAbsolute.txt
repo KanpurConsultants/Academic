@@ -1,0 +1,86 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Mess.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Mess.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmBuyerMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItem.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmGodown.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItemCategory.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItemGroup.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmUnit.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMenu.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmBOM.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessMember.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMemberLeaveEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmAttendanceEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmExtraPersonEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmConsumptionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessStockAdjustment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessPurchaseReturn.resources
+D:\Rati\Academic\Release\Academic_Mess.exe.config
+D:\Rati\Academic\Release\Academic_Mess.exe
+D:\Rati\Academic\Release\Academic_Mess.pdb
+D:\Rati\Academic\Release\Academic_Mess.xml
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmAttendanceEntry.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmBOM.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessStockAdjustment.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmConsumptionEntry.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmExtraPersonEntry.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMemberLeaveEntry.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMenu.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmGodown.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItem.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItemCategory.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItemGroup.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessMember.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessPurchaseReturn.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmUnit.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmBuyerMaster.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmEnviro.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.Resources.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.exe
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.xml
+D:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.pdb
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.xml
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Mess.exe.config
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Mess.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.MDI_Attendance.resources
+E:\Rati\Academic\Release\Academic_Mess.pdb
+E:\Rati\Academic\Release\Academic_Mess.xml
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmAttendanceEntry.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmBOM.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessStockAdjustment.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmConsumptionEntry.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmExtraPersonEntry.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMemberLeaveEntry.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMenu.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmGodown.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItem.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItemCategory.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmItemGroup.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessMember.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmMessPurchaseReturn.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmUnit.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.MDI_Attendance.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmBuyerMaster.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.FrmEnviro.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.Resources.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Release\Academic_Mess.exe.config
+E:\Rati\Academic\Release\Academic_Mess.exe
+E:\Rati\Academic\Project\Academic_Mess\obj\Debug\Academic_Mess.exe
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Mess.exe
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Mess.xml
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Mess.pdb

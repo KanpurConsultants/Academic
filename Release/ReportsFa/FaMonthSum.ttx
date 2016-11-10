@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+SUBCODE	string	10	A100000004	
+YEAR	string	5	2012	
+Month	string	30	March2012	
+Debit	string	14	151.00	
+Credit	string	14		
+Balance	string	17	151.00 Dr	
+ACName	string	123	Cash A/c {Cash_Colg}	
+MonthNo	number		
+Date1	date	01/Mar/2012 12:00:00 AM	
+Date2	date	20/Mar/2012 12:00:00 AM	

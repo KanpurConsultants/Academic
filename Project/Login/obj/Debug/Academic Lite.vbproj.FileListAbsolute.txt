@@ -1,0 +1,74 @@
+E:\Ashish Gupta\Active Projects\Scholar\Release\Academic Lite.exe.config
+E:\Ashish Gupta\Active Projects\Scholar\Release\Academic Lite.exe
+E:\Ashish Gupta\Active Projects\Scholar\Release\Academic Lite.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Academic Lite.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.FrmCompany.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.FrmDivisionSelection.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.FrmLogin.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.FrmServerNotFound.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.FrmSiteSelection.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\AcademicLite.Resources.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Academic Lite.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Academic Lite.exe
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Academic Lite.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Academic Lite.pdb
+\\server2008\Active Project\Vidya\Release\Academic Lite.exe.config
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.exe
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.xml
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.pdb
+\\server2008\Active Project\Vidya\Release\Academic Lite.exe
+\\server2008\Active Project\Vidya\Release\Academic Lite.pdb
+\\server2008\Active Project\Vidya\Release\Academic Lite.xml
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmCompany.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmDivisionSelection.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmLogin.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmServerNotFound.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmSiteSelection.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.MDIMain.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.Resources.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.vbproj.GenerateResource.Cache
+\\arpit-pc\Active Project\Vidya\Release\Academic Lite.exe.config
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.exe
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.xml
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.pdb
+\\arpit-pc\Active Project\Vidya\Release\Academic Lite.exe
+\\arpit-pc\Active Project\Vidya\Release\Academic Lite.pdb
+\\arpit-pc\Active Project\Vidya\Release\Academic Lite.xml
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmCompany.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmDivisionSelection.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmLogin.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmServerNotFound.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.FrmSiteSelection.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.MDIMain.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\AcademicLite.Resources.resources
+\\arpit-pc\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.vbproj.GenerateResource.Cache
+E:\Arpit\Active Project\Vidya\Release\Academic Lite.exe.config
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.exe
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.xml
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Debug\Academic Lite.pdb
+\\arpit-pc\Active Project\Vidya\Release\Vidya.exe.config
+E:\Arpit\Active Project\Vidya\Release\Vidya.exe.config
+E:\Arpit\KC\Vidya\Release\Vidya.exe.config
+E:\Arpit\KC\Vidya\Release\Vidya.exe
+E:\Arpit\KC\Vidya\Release\Vidya.pdb
+E:\Arpit\KC\Vidya\Release\Vidya.xml
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.FrmCompany.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.FrmDivisionSelection.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.FrmLogin.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.FrmServerNotFound.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.FrmSiteSelection.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.MDIMain.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.Resources.resources
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Academic Lite.vbproj.GenerateResource.Cache
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.exe
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.xml
+E:\Arpit\KC\Vidya\Project\Login\obj\Debug\Vidya.pdb
+E:\Arpit\Vidya\Release\Vidya.exe.config
+E:\Arpit\Vidya\Project\Login\obj\Debug\Vidya.exe
+E:\Arpit\Vidya\Project\Login\obj\Debug\Vidya.xml
+E:\Arpit\Vidya\Project\Login\obj\Debug\Vidya.pdb

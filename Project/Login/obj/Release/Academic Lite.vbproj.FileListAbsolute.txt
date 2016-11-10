@@ -1,0 +1,131 @@
+\\server2008\Active Project\Vidya\Release\Academic Lite.exe.config
+\\server2008\Active Project\Vidya\Release\Academic Lite.exe
+\\server2008\Active Project\Vidya\Release\Academic Lite.pdb
+\\server2008\Active Project\Vidya\Release\Academic Lite.xml
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\ResolveAssemblyReference.cache
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmCompany.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmDivisionSelection.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmLogin.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmServerNotFound.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmSiteSelection.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.MDIMain.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.Resources.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.exe
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.xml
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.pdb
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+E:\Arpit\Active Project\Vidya\Release\Vidya.exe.config
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.FrmCompany.resources
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.FrmLogin.resources
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.MDIMain.resources
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.Resources.resources
+E:\Arpit\Active Project\Vidya\Release\Vidya.exe
+E:\Arpit\Active Project\Vidya\Release\Vidya.pdb
+E:\Arpit\Active Project\Vidya\Release\Vidya.xml
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.exe
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.xml
+E:\Arpit\Active Project\Vidya\Project\Login\obj\Release\Vidya.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Vidya.exe.config
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.exe
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.xml
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Vidya.exe
+E:\Arpit\Active Project\KC\Vidya\Release\Vidya.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Vidya.xml
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.FrmCompany.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.FrmLogin.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.MDIMain.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Vidya.Resources.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+E:\Arpit\KC\Vidya\Release\Vidya.exe.config
+E:\Arpit\KC\Vidya\Project\Login\obj\Release\Vidya.exe
+E:\Arpit\KC\Vidya\Project\Login\obj\Release\Vidya.xml
+E:\Arpit\KC\Vidya\Project\Login\obj\Release\Vidya.pdb
+E:\Arpit\Vidya\Release\Vidya.exe.config
+E:\Arpit\Vidya\Release\Vidya.exe
+E:\Arpit\Vidya\Release\Vidya.pdb
+E:\Arpit\Vidya\Release\Vidya.xml
+E:\Arpit\Vidya\Project\Login\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.FrmCompany.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.FrmLogin.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.MDIMain.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.Resources.resources
+E:\Arpit\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.exe
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.xml
+E:\Arpit\Vidya\Project\Login\obj\Release\Vidya.pdb
+D:\Projects Working Copy\Vidya\Release\Vidya.exe.config
+D:\Projects Working Copy\Vidya\Release\Vidya.exe
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Academic Lite.vbprojResolveAssemblyReference.cache
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.FrmCompany.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.FrmLogin.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.MDIMain.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.Resources.resources
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.exe
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.xml
+D:\Projects Working Copy\Vidya\Project\Login\obj\Release\Vidya.pdb
+D:\Projects Working Copy\Vidya\Release\Vidya.pdb
+D:\Projects Working Copy\Vidya\Release\Vidya.xml
+F:\Vidya\Release\Vidya.exe.config
+F:\Vidya\Project\Login\obj\Release\Vidya.exe
+F:\Vidya\Project\Login\obj\Release\Vidya.xml
+F:\Vidya\Project\Login\obj\Release\Vidya.pdb
+F:\Vidya\Release\Vidya.exe
+F:\Vidya\Release\Vidya.pdb
+F:\Vidya\Release\Vidya.xml
+F:\Vidya\Project\Login\obj\Release\Academic Lite.vbprojResolveAssemblyReference.cache
+F:\Vidya\Project\Login\obj\Release\Vidya.FrmCompany.resources
+F:\Vidya\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+F:\Vidya\Project\Login\obj\Release\Vidya.FrmLogin.resources
+F:\Vidya\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+F:\Vidya\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+F:\Vidya\Project\Login\obj\Release\Vidya.MDIMain.resources
+F:\Vidya\Project\Login\obj\Release\Vidya.Resources.resources
+F:\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+D:\PerPen\Projects\Vidya_\Release\Vidya.exe
+D:\PerPen\Projects\Vidya_\Release\Vidya.pdb
+D:\PerPen\Projects\Vidya_\Release\Vidya.exe.config
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmCompany.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmLogin.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.MDIMain.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.Resources.resources
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.exe
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.xml
+D:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.pdb
+D:\PerPen\Projects\Vidya_\Release\Vidya.xml
+E:\PerPen\Projects\Vidya_\Release\Vidya.exe.config
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.exe
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.xml
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.pdb
+E:\PerPen\Projects\Vidya_\Release\Vidya.exe
+E:\PerPen\Projects\Vidya_\Release\Vidya.pdb
+E:\PerPen\Projects\Vidya_\Release\Vidya.xml
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Academic Lite.vbprojResolveAssemblyReference.cache
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmCompany.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmDivisionSelection.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmLogin.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmServerNotFound.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.FrmSiteSelection.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.MDIMain.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Vidya.Resources.resources
+E:\PerPen\Projects\Vidya_\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache

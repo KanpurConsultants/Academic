@@ -1,0 +1,65 @@
+; Field definition file for table: ADORecordset
+StudentName	string	255	anoop shukla {1128714001}	
+StudentDispName	string	255	anoop shukla	
+StudentManualCode	string	255	1128714001	
+FatherName	string	255	anil kumar shukla	
+MotherName	string	255	asha shukla	
+AdmissionID	string	255	A/1/MCA/11-12/CS/00008	
+RollNo	string	255	1128714001	
+EnrollmentNo	string	255		
+SemesterExamAdmission1	string	255	A100000287	
+AdmissionDocId	string	255	A1 ADMSN 2011     836	
+SemesterExam	string	255	A100000010	
+SemesterExamAdmissionDocId	string	255	A1   SEC 2011      10	
+StreamYearSemesterCode	string	255	A100000288	
+ExamType	string	255	A1000004	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+ExamTypeDesc	string	255	End Semester	
+ExamNature	string	255	Exam	
+SemesterExamDesc	string	255	MCA/11-12/CS/1/Semester 2/End Semester	
+SessionProgrammeCode	string	255	A1000012	
+SessionManualCode	string	255	11-12	
+ProgrammeManualCode	string	255	MCA	
+StreamManualCode	string	255	CS	
+StreamCode	string	255	A1000001	
+SessionCode	string	255	A1000004	
+ProgrammeCode	string	255	A1000002	
+SessionProgrammeStreamYear	string	255	A1000144	
+StreamYearSemesterDesc	string	255	MCA/11-12/CS/1/Semester 2	
+SubjectCode	string	255	A1000059	
+SubjectDesc	string	255	Environment Science & Ethics {MCA -211}	
+SubjectDisplayName	string	255	Environment Science & Ethics	
+SubjectType	string	255	Theory	
+SubjectManualCode	string	255	MCA -211	
+Exam_MinMarks	number	33	
+Test_MaxMarks	number	30	
+Test_MinMarks	number	10	
+Assignment_MaxMarks	number	10	
+Assignment_MinMarks	number	4	
+Attendance_MaxMarks	number	10	
+Attendance_MinMarks	number	3	
+Total_MaxMarks	number	150	
+Total_MinMarks	number	50	
+MaxMarks	number		
+MinMarks	number		
+MarksObtain	number		
+GraceMarks	number		
+Result	string	255		
+IsSubjectMarksExists	boolean	False	
+IsStudentMarksExists	boolean	False	
+Category	string	255	A1000004	
+ClassSectionDesc	string	255		
+ClassSectionCode	string	255		
+AttendenceMarks	number		
+TotalTestObtainMarks	number		
+TotalAssignmentObtainMarks	number		
+SessionalMaxMarks	number	50	
+Exam_MaxMarks	number	100	
+Total_MaxMarks1	number	150	
+SessionalObtainMarks	number	0	
+ExamObtainMarks	number		
+TotalObtainMarks	number	0	
+SubjectCode1	string	255	A1000059	
+EMail	string	255		
+StudentCode	string	255	A100001469	

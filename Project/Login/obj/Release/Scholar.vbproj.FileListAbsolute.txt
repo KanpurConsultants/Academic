@@ -1,0 +1,16 @@
+E:\Rati\Scholar\Release\Scholar.exe.config
+E:\Rati\Scholar\Release\Scholar.exe
+E:\Rati\Scholar\Release\Scholar.pdb
+E:\Rati\Scholar\Release\Scholar.xml
+E:\Rati\Scholar\Project\Login\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.FrmCompany.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.FrmDivisionSelection.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.FrmLogin.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.FrmServerNotFound.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.FrmSiteSelection.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.MDIMain.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.Resources.resources
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.exe
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.xml
+E:\Rati\Scholar\Project\Login\obj\Release\Scholar.pdb

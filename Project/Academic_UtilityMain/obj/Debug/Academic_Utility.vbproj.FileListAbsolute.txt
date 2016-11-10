@@ -1,0 +1,42 @@
+D:\Active Projects\Academic_Lib\Release\Academic_Utility.pdb
+D:\Active Projects\Academic_Lib\Release\Academic_Utility.xml
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmDivisionList.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmUser.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.Resources.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.MDIMain.resources
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.xml
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.pdb
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmSiteMaster.resources
+D:\Active Projects\Academic_Lib\Release\Academic_Utility.exe
+D:\Active Projects\Academic_Lib\Project\Academic_Utility\obj\Debug\Academic_Utility.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Utility.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Utility.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Utility.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmDivisionList.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmUser.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.pdb
+D:\Rati\Academic\Release\Academic_Utility.pdb
+D:\Rati\Academic\Release\Academic_Utility.xml
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmDivisionList.resources
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmSiteList.resources
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmUser.resources
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.Resources.resources
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.xml
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.pdb
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.exe
+D:\Rati\Academic\Release\Academic_Utility.exe
+D:\Rati\Academic\Project\Academic_Utility\obj\Debug\Academic_Utility.FrmUserPasswardChange.resources
+\\satyam\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_Utility.exe
+\\satyam\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_Utility.xml
+\\satyam\Rati\Academic\Project\Academic_UtilityMain\obj\Debug\Academic_Utility.pdb

@@ -1,0 +1,16 @@
+E:\Rati\Academic\Release\Academic.exe.config
+E:\Rati\Academic\Release\Academic.exe
+E:\Rati\Academic\Release\Academic.pdb
+E:\Rati\Academic\Release\Academic.xml
+E:\Rati\Academic\Project\Login\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Login\obj\Release\Academic.FrmCompany.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.FrmDivisionSelection.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.FrmLogin.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.FrmServerNotFound.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.FrmSiteSelection.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.MDIMain.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.Resources.resources
+E:\Rati\Academic\Project\Login\obj\Release\Academic.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Login\obj\Release\Academic.exe
+E:\Rati\Academic\Project\Login\obj\Release\Academic.xml
+E:\Rati\Academic\Project\Login\obj\Release\Academic.pdb

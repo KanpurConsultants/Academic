@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+EntryPoint	string	255	Admission Entry	
+U_Entdt	date	15/Feb/2012 11:15:00 AM	
+U_Name	string	255	beenu	
+DocId	string	255	A1 ADMSN 2011       1	
+MachineName	string	255	NARAINA-PC	
+U_AE	string	255	Add	
+SubCode	string	255	A100000554	
+V_Date	date	01/Jul/2011 12:00:00 AM	
+V_No	long	1	
+Student	string	255	Aakash Gupta {1028710001}	

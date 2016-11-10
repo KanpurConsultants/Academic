@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+V_Date	date	01/Apr/2012 12:00:00 AM	
+v_type	string	255	STISS	
+V_No	long	1	
+Qty_Iss	number	10	
+Qty_Rec	number	0	
+ItemName	string	255	A-4 Paper	
+BatchNo	string	255		
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+DepartmentCode	string	255	A1000002	
+DepartmentDesc	string	255	MBA DEPARTMENT	
+DepartmentManualCode	string	255	MBA	
+VDate_Formated	string	255	01/Apr/2012	
+StockVoucherNo	string	255	1/2012/STISS/1/A	
+Item_Batch_Description	string	255	Batch No.	
+RowId	long	23	
+Unit	string	255	PCS	

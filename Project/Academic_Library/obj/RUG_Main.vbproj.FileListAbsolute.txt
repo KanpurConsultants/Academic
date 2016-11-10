@@ -1,0 +1,391 @@
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+D:\RUG CARE\Release\RUG_Main.pdb
+D:\RUG CARE\Release\RUG_Main.xml
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+D:\RUG CARE\Project\RUG MAIN\obj\Release\ResolveAssemblyReference.cache
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesign.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmQuality.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.Resources.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.MDIMain.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.vbproj.GenerateResource.Cache
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.xml
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.pdb
+D:\RUG CARE\Release\RUG_Main.exe
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.exe
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmBuyer.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyer.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarn.resources
+D:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarn.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.pdb
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesign.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.Resources.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.MDIMain.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmQuality1.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmShade.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKU.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.xml
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.pdb
+D:\Active Projects\RUG CARE\Release\RUG_Main.pdb
+D:\Active Projects\RUG CARE\Release\RUG_Main.xml
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmShade.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmQuality1.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesign.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnMaster.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKU.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.Resources.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.MDIMain.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.vbproj.GenerateResource.Cache
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmSize.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmBuyerMaster.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmPortMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmBuyerMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmPortMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmSize.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmImportFromExcel.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesignConsumption.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesignConsumption.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmImportFromExcel.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterial.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSku.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSku.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterial.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSkuConsumption.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.exe
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.xml
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.pdb
+F:\RUG CARE\Release\RUG_Main.exe
+F:\RUG CARE\Release\RUG_Main.pdb
+F:\RUG CARE\Release\RUG_Main.xml
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuX.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCity.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignX.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempTransaction.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyer.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+F:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+F:\RUG CARE\Project\RUG MAIN\obj\Release\ResolveAssemblyReference.cache
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSku.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSkuConsumption.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSkuX.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterial.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmBuyerMaster.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCity.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesignConsumption.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesignX.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmImportFromExcel.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmPortMaster.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmShade.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmSize.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempTransaction.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmQuality.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmQuality1.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmBuyer.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesign.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnMaster.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKU.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.Resources.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.MDIMain.resources
+F:\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\RUG_Main.pdb
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSaleOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+E:\Arpit Gupta\Active Projects\zRUG CARE\Release\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\zRUG CARE\Release\RUG_Main.pdb
+E:\Arpit Gupta\Active Projects\zRUG CARE\Release\RUG_Main.xml
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSaleOrder.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCity.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSaleOrder.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempTransaction.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+E:\Arpit Gupta\Active Projects\zRUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSaleOrder.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSaleOrder.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSkuConsumption.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionOrder.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetProductionOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempSaleOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempStockAdjustment.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetOpeningStock.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUOpeningStock.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetOpeningStock.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKUOpeningStock.resources
+D:\Active Projects\RUG CARE\Release\RUG_Main.exe
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.exe
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetProductionPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetMaterialPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetMaterialPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetMaterialPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetOpeningStock.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetProductionOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetProductionPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSaleOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKUOpeningStock.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempMaterialPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempProductionOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempProductionPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempSaleOrder.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempStockAdjustment.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Release\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.exe
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetMaterialPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetOpeningStock.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUOpeningStock.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempMaterialPlan.resources
+E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionPlan.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+F:\Rug\RUG CARE\Release\RUG_Main.exe
+F:\Rug\RUG CARE\Release\RUG_Main.pdb
+F:\Rug\RUG CARE\Release\RUG_Main.xml
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetMaterialPlan.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetOpeningStock.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionOrder.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionPlan.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSaleOrder.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUOpeningStock.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempMaterialPlan.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionOrder.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionPlan.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempSaleOrder.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempStockAdjustment.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+F:\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Release\RUG_Main.pdb
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Release\RUG_Main.xml
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetMaterialPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetOpeningStock.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetProductionOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetProductionPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSaleOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSku.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetSkuConsumption.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterial.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmBuyerMaster.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesignConsumption.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmImportFromExcel.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmPortMaster.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKUOpeningStock.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempMaterialPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempProductionOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempProductionPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempSaleOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmShade.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmSize.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempStockAdjustment.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmQuality1.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDesign.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnMaster.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKU.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.Resources.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.MDIMain.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.vbproj.GenerateResource.Cache
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.xml
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.pdb
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetMaterialPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetOpeningStock.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSaleOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUOpeningStock.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempMaterialPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempSaleOrder.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempStockAdjustment.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.exe
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSizex.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmSizex.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterialPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Release\RUG_Main.exe
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterialPlan.resources
+C:\Documents and Settings\SARAN\Desktop\Rug\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.exe
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.xml
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.pdb
+J:\RUG CARE\Release\RUG_Main.pdb
+J:\RUG CARE\Release\RUG_Main.xml
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\ResolveAssemblyReference.cache
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetMaterialPlan.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetOpeningStock.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionOrder.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetProductionPlan.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSaleOrder.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSku.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetSkuConsumption.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterial.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmBuyerMaster.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesignConsumption.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmImportFromExcel.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterialPlan.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmPortMaster.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSizex.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUOpeningStock.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempMaterialPlan.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionOrder.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempProductionPlan.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempSaleOrder.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmShade.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSize.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempStockAdjustment.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmQuality1.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDesign.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnMaster.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKU.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.Resources.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.MDIMain.resources
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.vbproj.GenerateResource.Cache
+J:\RUG CARE\Release\RUG_Main.dll
+J:\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.dll
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterialPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmSizex.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterialPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmSizex.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmDefaultGodown.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmDefaultGodown.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmCarpetTransferReceive.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmCarpetTransferReceive.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmOtherMaterialTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmOtherMaterialTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmYarnSKUTransferReceive.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempStockTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKUTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmYarnSKUTransferReceive.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempStockTransferIssue.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmUndyedYarnPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmUndyedYarnPlan.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.TempSubGroup.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Release\RUG_Main.FrmAgent.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmAgent.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.TempSubGroup.resources
+D:\Active Projects\RUG CARE\Project\RUG MAIN\obj\Debug\RUG_Main.FrmTaxPostingGroupEntry.resources

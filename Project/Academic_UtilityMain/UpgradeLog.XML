@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RUG_Utility">
+</Property><Property Name="Solution File" Value="E:\Arpit Gupta\Active Projects\RUG CARE\Project\RUG_Utility\RUG_Utility.sln">
+</Property><Property Name="Date" Value="17/Aug/2011">
+</Property><Property Name="Time" Value="15:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="RUG_Utility" Source="RUG_Utility.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RUG_Utility" Source="RUG_Utility.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RUG_Utility.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RUG_Utility.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RUG_Utility" Source="RUG_Utility.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

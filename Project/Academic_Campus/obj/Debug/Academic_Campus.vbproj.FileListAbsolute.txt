@@ -1,0 +1,18 @@
+E:\Rati\Academic\Release\Academic_Campus.exe.config
+E:\Rati\Academic\Release\Academic_Campus.exe
+E:\Rati\Academic\Release\Academic_Campus.pdb
+E:\Rati\Academic\Release\Academic_Campus.xml
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.FrmCampusCompanyMaster.resources
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.Resources.resources
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.exe
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.xml
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.pdb
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.FrmSessionCompanyAssignEntry.resources
+E:\Rati\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.FrmPlacementEntry.resources
+D:\Active Project\Academic\Release\Academic_Campus.exe.config
+D:\Active Project\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.exe
+D:\Active Project\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.xml
+D:\Active Project\Academic\Project\Academic_Campus\obj\Debug\Academic_Campus.pdb

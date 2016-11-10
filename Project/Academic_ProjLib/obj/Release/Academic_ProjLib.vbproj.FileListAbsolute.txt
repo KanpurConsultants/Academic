@@ -1,0 +1,45 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_ProjLib.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_ProjLib.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_ProjLib.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempTransaction.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempParty.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempPurchase.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempSale.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempStockAdjustment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.pdb
+E:\Rati\Academic\Release\Academic_ProjLib.dll
+E:\Rati\Academic\Release\Academic_ProjLib.pdb
+E:\Rati\Academic\Release\Academic_ProjLib.xml
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.MDIMain.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempTransaction.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.Resources.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempParty.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempPurchase.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempSale.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempStockAdjustment.resources
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.vbproj.GenerateResource.Cache
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.dll
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.xml
+E:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.pdb
+D:\Rati\Academic\Release\Academic_ProjLib.dll
+D:\Rati\Academic\Release\Academic_ProjLib.pdb
+D:\Rati\Academic\Release\Academic_ProjLib.xml
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.MDIMain.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempTransaction.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.Resources.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempParty.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempPurchase.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempSale.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.TempStockAdjustment.resources
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.dll
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.xml
+D:\Rati\Academic\Project\Academic_ProjLib\obj\Release\Academic_ProjLib.pdb

@@ -1,0 +1,26 @@
+; Field definition file for table: ADORecordset
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+StreamYearSemesterDesc	string	255	MBA/11-12/MBA/1/SEMESTER 1	
+Category	string	255	OBC	
+NetReceiveAmount	number	10000	
+Discount	number	0	
+AdmissionId	string	255	A/1/MBA/11-12/MBA/00004	
+V_Date	date	20/Oct/2011 12:00:00 AM	
+StudenName	string	255	ARJUN . {904}	
+Stream	string	255	MBA	
+Programme	string	255	MBA	
+Session	string	255	2011-12	
+Fees	string	255	HOSTEL FEE	
+Vno	long	3	
+ReceiveAmount	number	10000	
+Receipt_VNo	string	255	3/2011/FR/1/A	
+V_Type	string	255	FR	
+ForSiteCode	string	255	 For Site : All 	
+ForSemester	string	255	 For Semester Name : All 	
+ForCatgory	string	255	 For Category Name : All 	
+ForStream	string	255	 For Stream Name : All 	
+ForProgramme	string	255	 For Programme Name : All 	
+ForSession	string	255	 For Session Name : All 	
+ForSTUDENT	string	255	 For Admission ID : All 	
+FromDate	string	255	01/Apr/2011	
+Todate	string	255	15/May/2012	

@@ -1,0 +1,16 @@
+\\server2008\Active Project\Vidya\Release\Academic Lite.exe.config
+\\server2008\Active Project\Vidya\Release\Academic Lite.exe
+\\server2008\Active Project\Vidya\Release\Academic Lite.pdb
+\\server2008\Active Project\Vidya\Release\Academic Lite.xml
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\ResolveAssemblyReference.cache
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmCompany.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmDivisionSelection.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmLogin.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmServerNotFound.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.FrmSiteSelection.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.MDIMain.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\AcademicLite.Resources.resources
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.vbproj.GenerateResource.Cache
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.exe
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.xml
+\\server2008\Active Project\Vidya\Project\Login\obj\Release\Academic Lite.pdb

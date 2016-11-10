@@ -1,0 +1,153 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Main.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Main.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmElectiveSubjectAssign.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocumentIssue.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemesterSubjectAssign.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStatusChange.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentFamilyIncome.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentSubjectChange.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacherAssessmentEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmImportFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAssignmentSheet.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.TempAcademicProgress.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLecturePlan.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLabStatus.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLabWork.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.TempTutorialAssignment.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTutorialSheet.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmYearEnd.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Main.exe.config
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_Main.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTransportInfo.resources
+D:\Rati\Academic\Release\Academic_Main.pdb
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAssignmentSheet.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLabWork.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLecturePlan.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLabStatus.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTransportInfo.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTutorialSheet.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmElectiveSubjectAssign.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocumentIssue.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmImportFromExcel.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemesterSubjectAssign.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStatusChange.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentFamilyIncome.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentSubjectChange.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectMarks.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacherAssessmentEntry.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmYearEnd.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.TempAcademicProgress.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.TempTutorialAssignment.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+D:\Rati\Academic\Release\Academic_Main.xml
+D:\Rati\Academic\Release\Academic_Main.exe.config
+D:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.exe
+D:\Rati\Academic\Release\Academic_Main.exe
+E:\Rati\Academic\Release\Academic_Main.exe.config
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.exe
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb
+E:\Rati\Academic\Release\Academic_Main.exe
+E:\Rati\Academic\Release\Academic_Main.pdb
+E:\Rati\Academic\Release\Academic_Main.xml
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAdmissionEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmAssignmentSheet.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLabWork.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLecturePlan.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmLabStatus.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTransportInfo.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTutorialSheet.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmElectiveSubjectAssign.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmDocumentIssue.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmImportFromExcel.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationCancelEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSemesterSubjectAssign.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStatusChange.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgrammeStreamOC.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentFamilyIncome.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeave.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentPromotion.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnrollmentNoAssign.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmClassSection.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmEnviro.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSectionAssignEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRegistrationEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmRollNoAssign.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSectionAssignEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSessionProgramme.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStreamYearSemesterSubject.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentAttendance.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentLeft.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentMaster.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmStudentSubjectChange.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectMarks.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubjectSwap.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmOpenElectiveSubSectionAssignEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmSubSectionAssignEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacher.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmTeacherAssessmentEntry.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.FrmYearEnd.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.TempAcademicProgress.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.TempTutorialAssignment.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.Resources.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.MDIMain.resources
+E:\Rati\Academic\Project\Academic_Main\obj\Debug\Academic_Main.vbproj.GenerateResource.Cache
+D:\Active Project\Academic\Release\Academic_Main.exe.config
+D:\Active Project\Academic\Project\Academic_Main\obj\Debug\Academic_Main.xml
+D:\Active Project\Academic\Project\Academic_Main\obj\Debug\Academic_Main.pdb

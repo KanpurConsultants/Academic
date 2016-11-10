@@ -1,0 +1,32 @@
+E:\Rati\Scholar\Release\Scholar.exe.config
+E:\Rati\Scholar\Release\Scholar.exe
+E:\Rati\Scholar\Release\Scholar.pdb
+E:\Rati\Scholar\Release\Scholar.xml
+E:\Rati\Scholar\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.FrmCompany.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.FrmDivisionSelection.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.FrmLogin.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.FrmServerNotFound.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.FrmSiteSelection.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.MDIMain.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.Resources.resources
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.exe
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.xml
+E:\Rati\Scholar\Project\Login\obj\Debug\Scholar.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar.exe.config
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.exe
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar.exe
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.FrmCompany.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.FrmDivisionSelection.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.FrmLogin.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.FrmServerNotFound.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.FrmSiteSelection.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.Resources.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Login\obj\Debug\Scholar.vbproj.GenerateResource.Cache

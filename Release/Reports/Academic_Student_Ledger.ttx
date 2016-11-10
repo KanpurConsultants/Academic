@@ -1,0 +1,41 @@
+; Field definition file for table: ADORecordset
+LedgerDocId	string	255	Opening	
+Ledger_VNo	string	255		
+LedgerRowId	long	0	
+StudentCrAmt	number	5000	
+StudentDrAmt	number	0	
+V_Date	date	01/Apr/2011 12:00:00 AM	
+Chq_No	string	255		
+Chq_Date	date		
+Clg_Date	date		
+LineNarration	string	255		
+CommonNarration	string	255		
+SubCode	string	255	A100000124	
+AcName	string	255	Opening Balance	
+StudentCode	string	255	A100000124	
+StudentName	string	255	SAGAR  ANAND {840}	
+StudentDispName	string	255	SAGAR  ANAND	
+StudentManualCode	string	255	840	
+Add1	string	255	CHETGANJ KHANDAWANALA, MIRZAPUR PIN: 	
+Add2	string	255		
+Add3	string	255		
+CityName	string	255	MIRZAPUR	
+PIN	string	255	0	
+Phone	string	255	8896851301	
+Mobile	string	255	9369380048	
+EMail	string	255		
+FatherName	string	255	MOHAL LAL	
+MotherName	string	255	KAMALA ANAND	
+CategoryDesc	string	255	SCHEDULE CASTE	
+CategoryManualCode	string	255	SC	
+ReligionDesc	string	255	HINDU	
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+Site_Code	string	255	1	
+Div_Code	string	255	A	
+AdmissionID	string	255	A/1/MBA/11-12/MBA/00033	
+Status	string	255	Regular	
+EnrollmentNo	string	255		
+RollNo	string	255	1173870031	
+SessionProgrammeDesc	string	255	MBA/11-12	
+SessionManualCode	string	255	11-12	
+Remark	string	255		

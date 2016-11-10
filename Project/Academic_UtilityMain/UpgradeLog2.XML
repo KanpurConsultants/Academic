@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Academic_Utility">
+</Property><Property Name="Solution File" Value="E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_Utility\Academic_Utility.sln">
+</Property><Property Name="Date" Value="Wednesday, December 28, 2011">
+</Property><Property Name="Time" Value="15:43 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Academic_Utility" Source="Academic_Utility.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Academic_Utility" Source="Academic_Utility.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Academic_Utility.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Academic_Utility.sln" Description="Converted">
+</Event></UpgradeLog>

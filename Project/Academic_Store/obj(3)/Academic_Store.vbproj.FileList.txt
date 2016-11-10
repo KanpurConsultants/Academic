@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Academic_Store.FrmEnviro.resources
+obj\Debug\Academic_Store.FrmGodown.resources
+obj\Debug\Academic_Store.FrmissueReceive.resources
+obj\Debug\Academic_Store.FrmItemCategory.resources
+obj\Debug\Academic_Store.FrmItemGroup.resources
+obj\Debug\Academic_Store.FrmPurchase.resources
+obj\Debug\Academic_Store.FrmSale.resources
+obj\Debug\Academic_Store.FrmItem.resources
+obj\Debug\Academic_Store.FrmUnit.resources
+obj\Debug\Academic_Store.MDIMain.resources
+obj\Debug\Academic_Store.vbproj.GenerateResource.Cache

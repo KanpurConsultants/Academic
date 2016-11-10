@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1   REQ 2011       1	
+V_Type	string	255	REQ	
+V_Prefix	string	255	2011	
+V_Date	date	10/May/2011 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+Department	string	255	A1000002	
+RequisitionBy	string	255	AVINASH  KUMAR PAL	
+Remark	string	255		
+TotalQty	number	10	
+Sr	number	1	
+Item	string	255	A1000011	
+Qty	number	10	
+Unit	string	255	A1000002	
+ItemDescription	string	255		
+RequireDate	date	15/May/2012 12:00:00 AM	
+UID	string	255	68cd210c-24b7-468e-b1ce-2e4584f5c915	
+SiteName	string	255	GLOBAL GROUP OF INSTITUTIONS	
+ItemName	string	255	Board Duster	
+DepName	string	255	MBA DEPARTMENT	
+ReferenceNo	string	255	REQ-2011-1	

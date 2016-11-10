@@ -1,0 +1,29 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 TSEET 2011      55	
+V_Date	date	02/Apr/2011 12:00:00 AM	
+CompletionDate	date	02/Apr/2012 12:00:00 AM	
+ReferenceNo	string	255	TSEET-2011-61	
+SessionProgrammeDesc	string	255	MBA/10-11	
+StreamYearSemesterDesc	string	255	MBA/10-11/MNGMT/2/Semester 4	
+SubjectDisplayName	string	255	Rural Managment	
+SubjectManualCode	string	255	MBA OP 04	
+Unit	string	255	4	
+Topic	string	255	Marketing research and rural financing	
+TeacherName	string	255	Ashwani  Kumar  Yadav {055}	
+TeacherDispName	string	255	Ashwani  Kumar  Yadav	
+TeacherManualCode	string	255	055	
+TotalQuestion	number	2	
+TotalReference	number	0	
+Remark	string	255		
+Site_Name	string	255	PPT	
+Site_Code	string	255	1	
+Div_Code	string	255	A	
+PreparedBy	string	255	ashwaniyad	
+U_EntDt	date	04/Apr/2012 12:35:00 AM	
+Edit_Date	date	04/Apr/2012 11:11:00 PM	
+ModifiedBy	string	255	atul	
+ApprovedBy	string	255	atul	
+ApprovedDate	date	04/Apr/2012 11:11:00 PM	
+Question	string	255	Explain the evaluation of Rural marketing.	
+SiteManualCode	string	255	PPT	
+SitePhoho	BLOB		

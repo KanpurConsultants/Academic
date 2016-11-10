@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+CompanyName	string	255	Maa Bhagwati Devi Shiksha Seva Samiti	
+Add1	string	255	E-50 Panki Mandir Road	
+Add2	string	255	Panki	
+Add3	string	255		
+City	string	255	Kanpur	
+Phone	string	255	-	
+Fax	string	255	-	
+Pin	string	255	0	
+Email	string	255	-	
+CSTNo	string	255	-	
+TIN	string	255	-	

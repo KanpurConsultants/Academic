@@ -1,0 +1,25 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1   SPO 2011       1	
+V_Type	string	255	SPO	
+V_Prefix	string	255	2011	
+V_Date	date	01/Jun/2011 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+RemarkHeader	string	255		
+ReferenceNo	string	255	SPO-2011-1	
+TotalAmount	number	240	
+TotalQty	number	2	
+subcode	string	255	A100000004	
+Remark	string	255		
+Sr	number	1	
+Item	string	255	A1000002	
+Qty	number	2	
+Rate	number	120	
+Amount	number	240	
+Unit	string	255	A1000001	
+SiteName	string	255	Naraina College of Engineering & Technology	
+Indent No	string	255	SPIND-1	
+ItemName	string	255	PENCILS	
+Supplier	string	255	Cash A/c {Cash_Colg}	
+ItemDescription	string	255		

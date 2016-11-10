@@ -1,0 +1,21 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 TSEET 2011      17	
+V_Type	string	255	TSEET	
+V_No	long	17	
+V_Date	date	13/Feb/2012 12:00:00 AM	
+ReferenceNo	string	255	TSEET-2011-17	
+SubjectManualCode	string	255	ECS-601	
+Unit	string	255	ONE	
+Topic	string	255	Intoduction of Physical layer	
+CompletionDate	date	18/Feb/2012 12:00:00 AM	
+TotalQuestion	number	5	
+TotalReference	number	1	
+Remark	string	255		
+TotalDocuments	number	0	
+Question	string	255	What Signal to noise ratio is Required to put T1 carrier on a 50 kHz line. Given that we have carrier line has 24 multiplexed voice signal sampled at8 kHz and 1 bit per frame is used.	
+SessionProgramme	string	255	B.Tech/09-10	
+Semester	string	255	B.Tech/09-10/CS/3/Semester 6	
+SiteName	string	255	PPT	
+Subject	string	255	Computer Network_CS {ECS-601}	
+Teacher	string	255	DESHRAJ SAHU {0384}	
+ReportType	string	255	Summary	

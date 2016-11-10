@@ -1,0 +1,40 @@
+; Field definition file for table: ADORecordset
+ClassSectionDesc	string	255	B.Tech/11-12/Sec_A	
+SessionProgrammeDesc	string	255	B.Tech/11-12	
+SubSection	string	255	Sec_A1	
+StudentName	string	255	ABHAY SACHAN {1128740001}	
+Site_Code	string	255	1	
+CurrentStatus	string	255	Regular	
+AdmissionId	string	255	A/1/B.Tech/11-12/ME/00001	
+EnrollmentNo	string	255		
+RollNo	string	255	1128740001	
+StudentDispName	string	255	ABHAY SACHAN	
+FatherName	string	255	DEV NARAYAN SACHAN	
+MotherName	string	255	SANGETA SACHAN	
+CityName	string	255	KANPUR	
+CurrentStreamYearSemester	string	255	B.Tech/11-12/ME/1/Semester 2	
+bGroupByVar	string	255	B.Tech/11-12/ME/1/Semester 2	
+code	string	255	A100000252	
+ClassSectionAsignCode	string	255	A100000003	
+ManualCode	string	255	1128740001	
+OpenElectiveSectionDesc	string	255		
+OpenElectiveSubSection	string	255		
+Photo	BLOB		
+Add1	string	255	SAHIBAJPUR SAMUHI GHATAMPUR KANPUR	
+Add2	string	255		
+Add3	string	255		
+PIN	string	255	209206	
+Phone	string	255		
+Mobile	string	255	9651577610	
+FAX	string	255		
+EMail	string	255		
+DOB	date	01/Mar/1992 12:00:00 AM	
+Remark	string	255		
+LogInUser	string	255		
+Sex	string	255	MALE	
+Religion	string	255	HINDU	
+CategoryDesc	string	255	OTHER BACKWARD CLASS	
+CategoryShortName	string	255	OBC	
+MotherIncome	number	0	
+FatherIncome	number	0	
+FamilyIncome	number	0	

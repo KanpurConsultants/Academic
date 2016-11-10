@@ -1,0 +1,18 @@
+; Field definition file for table: ADORecordset
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+Site_Code	string	255	1	
+SessionStartDate	date		
+CashAmount	number	20550	
+BankAmount	number	0	
+CardAmount	number	0	
+AcTransferAmount	number	0	
+LineDiscount	number	0	
+HederDiscountAmount	number	0	
+AdjustmentAmount	number	92750	
+TotalAdvanceAdjusted	number	0	
+StreamYearSemesterDesc	string	255		
+SessionProgrammeStreamDesc	string	255		
+SessionDesc	string	255		
+ScholarShipAmount	number	0	
+CounselingFeeAdjusted	number	0	
+PaymentDetail_AdjustmentAmount	number	250800	

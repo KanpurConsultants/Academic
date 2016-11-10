@@ -1,0 +1,14 @@
+D:\Dataman\Release\Academic_ProjLib.dll
+D:\Dataman\Release\Academic_ProjLib.pdb
+D:\Dataman\Release\Academic_ProjLib.xml
+..\..\Release\Academic_ProjLib.dll
+..\..\Release\Academic_ProjLib.pdb
+..\..\Release\Academic_ProjLib.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Academic_ProjLib.MDIMain.resources
+obj\Release\Academic_ProjLib.TempTransaction.resources
+obj\Release\Academic_ProjLib.Resources.resources
+obj\Release\Academic_ProjLib.vbproj.GenerateResource.Cache
+obj\Release\Academic_ProjLib.dll
+obj\Release\Academic_ProjLib.xml
+obj\Release\Academic_ProjLib.pdb

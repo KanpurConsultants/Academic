@@ -1,0 +1,736 @@
+Imports CrystalDecisions.CrystalReports.Engine
+
+Public Class FrmEmployeeDayAttendance
+    Private DTMaster As New DataTable()
+    Public BMBMaster As BindingManagerBase
+    Private KEAMainKeyCode As System.Windows.Forms.KeyEventArgs
+    Private DTStruct As New DataTable
+    Dim mQry As String = "", mSearchCode As String = ""
+
+    Private Const Col_SNo As Byte = 0
+    Public WithEvents DGL1 As New AgControls.AgDataGrid
+    Private Const Col1Employee As Byte = 1
+    'Private Const Col1YesNo As Byte = 2
+    Private Const Col1IsPresent As Byte = 2
+
+    Public Sub New(ByVal StrUPVar As String, ByVal DTUP As DataTable)
+        ' This call is required by the Windows Form Designer.
+        InitializeComponent()
+        ' Add any initialization after the InitializeComponent() call.
+        Topctrl1.FSetParent(Me, StrUPVar, DTUP)
+        Topctrl1.SetDisp(True)
+    End Sub
+
+    Private Sub Form_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Me.Paint
+        AgL.FPaintForm(Me, e, Topctrl1.Height)
+    End Sub
+
+    Private Sub Form_Disposed(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Disposed
+        DTMaster = Nothing
+    End Sub
+
+    Private Sub IniGrid()
+        ''==============================================================================
+        ''================< Fee Data Grid >=============================================
+        ''==============================================================================
+        With AgCL
+            .AddAgTextColumn(DGL1, "DGL1SNo", 40, 5, "S.No.", True, True, False)
+            .AddAgTextColumn(DGL1, "Dgl1Employee", 300, 8, "Employee", True, True, False)
+            '.AddAgListColumn(DGL1, "Yes,No", "Dgl1YesNo", 60, "Yes,No", "Yes/No", True, False, False)
+            .AddAgCheckBoxColumn(DGL1, "Dgl1IsPresent", 60, "Present", True, False, False)
+        End With
+        AgL.AddAgDataGrid(DGL1, Pnl1)
+        DGL1.ColumnHeadersHeight = 40
+        DGL1.AllowUserToAddRows = False
+    End Sub
+
+    Private Sub KeyDown_Form(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
+        If e.KeyCode = Keys.F2 Or e.KeyCode = Keys.F3 Or e.KeyCode = Keys.F4 Or e.KeyCode = (Keys.F And e.Control) Or e.KeyCode = (Keys.P And e.Control) _
+        Or e.KeyCode = (Keys.S And e.Control) Or e.KeyCode = Keys.Escape Or e.KeyCode = Keys.F5 Or e.KeyCode = Keys.F10 _
+        Or e.KeyCode = Keys.Home Or e.KeyCode = Keys.PageUp Or e.KeyCode = Keys.PageDown Or e.KeyCode = Keys.End Then
+            Topctrl1.TopKey_Down(e)
+        End If
+
+        If Me.ActiveControl IsNot Nothing Then
+            If Me.ActiveControl.Name <> Topctrl1.Name And _
+                Not (TypeOf (Me.ActiveControl) Is AgControls.AgDataGrid) Then
+                If e.KeyCode = Keys.Return Then SendKeys.Send("{Tab}")
+            End If
+
+            If e.KeyCode = Keys.Insert Then OpenLinkForm(Me.ActiveControl)
+        End If
+    End Sub
+
+    Private Sub OpenLinkForm(ByVal Sender As Object)
+        Try
+            Me.Cursor = Cursors.WaitCursor
+            If Topctrl1.Mode = "Browse" Then Exit Sub
+            Select Case Sender.name
+                'Case <Sender>.Name
+                'PObj.FOpen_LinkForm_Common_Master("MnuCustomerMaster", "Customer Master", Me.MdiParent)
+            End Select
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        Finally
+            Me.Cursor = Cursors.Default
+        End Try
+    End Sub
+
+    Sub KeyPress_Form(ByVal Sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles Me.KeyPress
+        If e.KeyChar = Chr(Keys.Escape) Then Exit Sub
+        If Me.ActiveControl Is Nothing Then Exit Sub
+        AgL.CheckQuote(e)
+    End Sub
+
+    Private Sub Form_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        Try
+            AgL.WinSetting(Me, 650, 880, 0, 0)
+            AgL.GridDesign(DGL1)
+            IniGrid()
+            Topctrl1.ChangeAgGridState(DGL1, False)
+            If AgL.PubMoveRecApplicable Then FIniMaster()
+            Ini_List()
+            DispText()
+            MoveRec()
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub FIniMaster(Optional ByVal BytDel As Byte = 0, Optional ByVal BytRefresh As Byte = 1)
+        Dim mCondStr As String
+
+
+        If AgL.PubMoveRecApplicable Then
+            mCondStr = " Where 1=1 And " & AgL.PubSiteCondition("S.Site_Code", AgL.PubSiteCode) & " "
+
+            mQry = "Select S.Code As SearchCode " & _
+                    " From Pay_DayAttendance S " & _
+                    " " & mCondStr & " "
+
+            Topctrl1.FIniForm(DTMaster, AgL.GCn, mQry, , , , , BytDel, BytRefresh)
+        End If
+    End Sub
+
+    Sub Ini_List()
+        mQry = "Select Code As Code, Name As Name From SiteMast " & _
+              " Where " & AgL.PubSiteCondition("Code", AgL.PubSiteCode) & "  Order By Name"
+        TxtSite_Code.AgHelpDataSet(0) = AgL.FillData(mQry, AgL.GCn)
+
+        mQry = "SELECT E.SubCode AS Code, Sg.Name " & _
+                " FROM Pay_Employee E " & _
+                " LEFT JOIN SubGroup Sg ON E.SubCode = Sg.SubCode " & _
+                " WHERE IsNull(E.IsTeachingStaff,0)<>0 And " & _
+                " " & AgL.PubSiteConditionCommonAc(AgL.PubIsHo, "Sg.Site_Code", AgL.PubSiteCode, "Sg.CommonAc") & " " & _
+                " ORDER BY Sg.Name "
+        DGL1.AgHelpDataSet(Col1Employee, 0) = AgL.FillData(mQry, AgL.GCn)
+    End Sub
+
+    Private Sub Topctrl_tbDel() Handles Topctrl1.tbDel
+        Dim BlnTrans As Boolean = False
+        Dim GCnCmd As New SqlClient.SqlCommand
+        Dim MastPos As Long
+        Dim mTrans As Boolean = False
+
+        Try
+            If AgL.PubMoveRecApplicable Then MastPos = BMBMaster.Position
+
+
+            If mSearchCode <> "" Then
+                If MsgBox("Are You Sure To Delete This Record?", MsgBoxStyle.Question + MsgBoxStyle.YesNo + MsgBoxStyle.DefaultButton2, AgLibrary.ClsMain.PubMsgTitleInfo) = vbYes Then
+
+
+                    AgL.ECmd = AgL.GCn.CreateCommand
+                    AgL.ETrans = AgL.GCn.BeginTransaction(IsolationLevel.ReadCommitted)
+                    AgL.ECmd.Transaction = AgL.ETrans
+
+                    mTrans = True
+
+                    AgL.Dman_ExecuteNonQry("Delete From Pay_DayAttendance1 Where Code='" & mSearchCode & "'", AgL.GCn, AgL.ECmd)
+                    AgL.Dman_ExecuteNonQry("Delete From Pay_DayAttendance Where Code='" & mSearchCode & "'", AgL.GCn, AgL.ECmd)
+
+                    Call AgL.LogTableEntry(mSearchCode, Me.Text, "D", AgL.PubMachineName, AgL.PubUserName, AgL.PubLoginDate, AgL.GCn, AgL.ECmd)
+
+                    AgL.SynchroniseSiteOnLineData(AgL, AgL.GCn, AgL.Gcn_ConnectionString, AgL.GcnSite_ConnectionString, AgL.ECmd)
+
+                    AgL.ETrans.Commit()
+                    mTrans = False
+
+                    If AgL.PubMoveRecApplicable Then
+                        FIniMaster(1)
+                        Topctrl_tbRef()
+                    Else
+                        AgL.PubSearchRow = ""
+                    End If
+                    MoveRec()
+
+                End If
+            End If
+        Catch Ex As Exception
+            If mTrans = True Then AgL.ETrans.Rollback()
+            MsgBox(Ex.Message, MsgBoxStyle.Information, AgLibrary.ClsMain.PubMsgTitleInfo)
+        End Try
+    End Sub
+
+    Private Sub Topctrl_tbDiscard() Handles Topctrl1.tbDiscard
+        If AgL.PubMoveRecApplicable Then FIniMaster(0, 0)
+        Topctrl1.Focus()
+    End Sub
+
+    Private Sub Topctrl_tbEdit() Handles Topctrl1.tbEdit
+        DispText(True)
+        TxtA_Date.Focus()
+    End Sub
+
+    Private Sub Topctrl_tbFind() Handles Topctrl1.tbFind
+        Dim mCondStr As String
+
+        'If DTMaster.Rows.Count <= 0 Then MsgBox("No Records To Search.", vbInformation, AgLibrary.ClsMain.PubMsgTitleInfo) : Exit Sub
+
+        Try
+            mCondStr = " Where 1=1 And " & AgL.PubSiteCondition("A.Site_Code", AgL.PubSiteCode) & " "
+
+            AgL.PubFindQry = "SELECT A.Code AS SearchCode, S.Name AS [Site Name], " & AgL.ConvertDateField("A.A_Date") & " As [Attendance Date] " & _
+                                " FROM Pay_DayAttendance A " & _
+                                " LEFT JOIN SiteMast S on A.Site_Code = S.Code  " & _
+                                " " & mCondStr & " "
+
+            AgL.PubFindQryOrdBy = "[SearchCode]"
+
+
+            '*************** common code start *****************
+            AgL.PubObjFrmFind = New AgLibrary.frmFind(AgL)
+            AgL.PubObjFrmFind.ShowDialog()
+            AgL.PubObjFrmFind = Nothing
+            If AgL.PubSearchRow <> "" Then
+                If AgL.PubMoveRecApplicable Then
+                    AgL.PubDRFound = DTMaster.Rows.Find(AgL.PubSearchRow)
+                    BMBMaster.Position = DTMaster.Rows.IndexOf(AgL.PubDRFound)
+                End If
+                MoveRec()
+            End If
+            '*************** common code end  *****************
+        Catch Ex As Exception
+            MsgBox(Ex.Message)
+        End Try
+    End Sub
+
+    Private Sub Topctrl_tbRef() Handles Topctrl1.tbRef
+        Ini_List()
+    End Sub
+
+    Private Sub Topctrl_tbPrn() Handles Topctrl1.tbPrn
+        Call PrintDocument(mSearchCode)
+    End Sub
+
+    Private Sub PrintDocument(ByVal mDocId As String)
+        Dim mCrd As New ReportDocument
+        Dim ReportView As New AgLibrary.RepView
+        Dim DsRep As New DataSet
+        Dim strQry As String = "", RepName As String = "", RepTitle As String = ""
+        Try
+            'Me.Cursor = Cursors.WaitCursor
+
+            'AgL.PubReportTitle = "Sale Bill"
+            'RepName = "SaleInvoice" : RepTitle = "Sale Invoice"
+
+            'If mDocId = "" Then
+            '    MsgBox("No Records Found to Print!!!", vbInformation, "Information")
+            '    Me.Cursor = Cursors.Default
+            '    Exit Sub
+            'End If
+
+            'strQry = "SELECT S.DocId,Vt.Description AS V_TypeDesc,S.V_Prefix,S.V_No,S.V_Date, " & _
+            '            "S.SaleOrderDocId,S.SaleDocId,S.CashCredit,C.Name As Customer_AC,S.PartyName, " & _
+            '            "S.Add1,S.Add2,S.Add3,S.CityCode,SMan.Name AS SalesMan_Name,Astro.Name AS Astrologer_Name, " & _
+            '            "S.Amount AS Amount_H,S.Scheme AS SchemeAmt_H, " & _
+            '            "S.Addition AS Addition_H,S.Deduction AS Deduction_H,S.TaxableAmt AS TaxableAmt_H, " & _
+            '            "S.TaxPer AS TaxPer_H,S.TaxAmt AS TaxAmt_H,S.AdditionalTaxPer AS AdditionalTaxPer_H, " & _
+            '            "S.AdditionalTaxAmt AS AdditionalTaxAmt_H,S.Labour AS Labour_H, " & _
+            '            "S.AdditionAfterTax_Per AS AdditionAfterTax_Per_H,S.AdditionAfterTax AS AdditionAfterTax_H, " & _
+            '            "S.DeductionAfterTax_Per AS DeductionAfterTax_Per_H,S.DeductionAfterTax AS DeductionAfterTax_H, " & _
+            '            "S.TotalAmount AS TotalAmount_H,S.RoundOff AS RoundOff_H,S.NetAmount AS NetAmount_H, " & _
+            '            "S.Advance AS Advance_H,S.Balance AS Balance_H,S.Remark AS Remark_H,S.PreparedBy, " & _
+            '            "S.U_EntDt,S.U_AE,S.Edit_Date,S.ModifiedBy,Stk.Sr,Stk.OrderDocId,Stk.ReferenceDocID, " & _
+            '            "Stk.BarCode,Scheme.Description AS SchemeDescription,Stk.Item,(Case When Stk.ItemDesc Is Null Then I.Description Else Stk.ItemDesc End) As ItemDesc, U.Description As Unit, " & _
+            '            "TFL.Description AS TaxForm_L,Stk.SchemeYn,Stk.GroupReceiveQty,Stk.GroupIssueQty,Stk.ReceiveQty, " & _
+            '            "Stk.IssueQty,Stk.PrintQty,Stk.Rate,Stk.Amount,Stk.Addition,Stk.Deduction,Stk.TaxableAmt, " & _
+            '            "Stk.TaxPer,Stk.TaxAmt,Stk.AdditionalTaxPer,Stk.AdditionalTaxAmt,Stk.AdditionAfterTax, " & _
+            '            "Stk.DeductionAfterTax, Stk.NetAmount, Stk.CentralTaxAmt, Stk.LandedRate, Stk.LandedAmount, Stk.Remark, Site.Name As SiteName " & _
+            '            "FROM Sale S " & _
+            '            "LEFT JOIN Stock Stk ON S.DocId = Stk.DocId " & _
+            '            "LEFT JOIN Voucher_Type Vt ON s.V_Type =Vt.V_Type " & _
+            '            "LEFT JOIN SubGroup C ON S.Customer = C.SubCode " & _
+            '            "LEFT JOIN SubGroup SMan ON S.SalesMan = SMan.SubCode " & _
+            '            "LEFT JOIN SubGroup Astro ON S.Astrologer  = Astro.SubCode " & _
+            '            " " & _
+            '            "LEFT JOIN SCHEME ON Stk.Scheme = Scheme.Code " & _
+            '            "LEFT JOIN TaxForm TfL ON Stk.TaxForm =TFL.Code " & _
+            '            "Left Join Item I On Stk.Item = I.Code " & _
+            '            "Left Join Unit U On I.Unit = U.Code " & _
+            '            "Left Join SiteMast Site On I.Site_Code = Site.Code " & _
+            '            "Where S.DocId = '" & mDocId & "' "
+
+
+            'AgL.ADMain = New SqlClient.SqlDataAdapter(strQry, AgL.GCn)
+            'AgL.ADMain.Fill(DsRep)
+
+
+            'AgPL.CreateFieldDefFile1(DsRep, PLib.PubReportPath_Academic & "\" & RepName & ".ttx", True)
+            'mCrd.Load(PLib.PubReportPath_Academic & "\" & RepName & ".rpt")
+            'mCrd.SetDataSource(DsRep.Tables(0))
+            'CType(ReportView.Controls("CrvReport"), CrystalDecisions.Windows.Forms.CrystalReportViewer).ReportSource = mCrd
+            'PLib.Formula_Set(mCrd, RepTitle)
+            'AgPL.Show_Report(ReportView, "* " & RepTitle & " *", Me.MdiParent)
+
+            'Call AgL.LogTableEntry(mDocId, Me.Text, "P", AgL.PubMachineName, AgL.PubUserName, AgL.PubLoginDate, AgL.GCn, AgL.ECmd)
+        Catch Ex As Exception
+            MsgBox(Ex.Message)
+        Finally
+            Me.Cursor = Cursors.Default
+        End Try
+    End Sub
+
+    Private Sub Topctrl_tbSave() Handles Topctrl1.tbSave
+        Dim MastPos As Long
+        Dim I As Integer, bSr As Integer = 0
+        Dim mTrans As Boolean = False
+
+        Try
+            If AgL.PubMoveRecApplicable Then MastPos = BMBMaster.Position
+
+            If Not Data_Validation() Then Exit Sub
+
+            AgL.ECmd = AgL.GCn.CreateCommand
+            AgL.ETrans = AgL.GCn.BeginTransaction(IsolationLevel.ReadCommitted)
+            AgL.ECmd.Transaction = AgL.ETrans
+
+            mTrans = True
+            If Topctrl1.Mode = "Add" Then
+                mQry = "INSERT INTO Pay_DayAttendance ( " & _
+                        " Code, A_Date, Remark, Div_Code, Site_Code, PreparedBy, U_EntDt, U_AE " & _
+                        " ) VALUES ( " & _
+                        " '" & mSearchCode & "', " & AgL.ConvertDate(TxtA_Date.Text) & ", " & AgL.Chk_Text(TxtRemark.Text) & ", " & _
+                        " '" & AgL.PubDivCode & "', " & AgL.Chk_Text(TxtSite_Code.AgSelectedValue) & ", " & _
+                        " '" & AgL.PubUserName & "', '" & Format(AgL.PubLoginDate, AgLibrary.ClsConstant.DateFormat_ShortDate) & "', 'A')"
+
+                AgL.Dman_ExecuteNonQry(mQry, AgL.GCn, AgL.ECmd)
+            Else
+                mQry = "Update Pay_DayAttendance " & _
+                        " SET  " & _
+                        " 	A_Date = " & AgL.ConvertDate(TxtA_Date.Text) & ", " & _
+                        " 	Remark = " & AgL.Chk_Text(TxtRemark.Text) & ", " & _
+                        " 	U_AE = 'E', " & _
+                        " 	Edit_Date = '" & Format(AgL.PubLoginDate, AgLibrary.ClsConstant.DateFormat_ShortDate) & "', " & _
+                        " 	ModifiedBy = '" & AgL.PubUserName & "' " & _
+                        " WHERE Code = '" & mSearchCode & "' "
+                AgL.Dman_ExecuteNonQry(mQry, AgL.GCn, AgL.ECmd)
+            End If
+
+
+            If Topctrl1.Mode = "Edit" Then
+                AgL.Dman_ExecuteNonQry("Delete From Pay_DayAttendance1 Where Code='" & mSearchCode & "'", AgL.GCn, AgL.ECmd)
+            End If
+
+            With DGL1
+                bSr = 0
+                For I = 0 To .Rows.Count - 1
+                    If .Item(Col1Employee, I).Value <> "" Then
+                        bSr += 1
+
+                        mQry = "INSERT INTO Pay_DayAttendance1 ( " & _
+                                " Code, Sr, Employee, IsPresent ) " & _
+                                " VALUES ( " & _
+                                " '" & mSearchCode & "', " & bSr & ", " & AgL.Chk_Text(.AgSelectedValue(Col1Employee, I)) & "," & _
+                                " " & IIf(CBool(.Item(Col1IsPresent, I).Value), 1, 0) & " )"
+                        AgL.Dman_ExecuteNonQry(mQry, AgL.GCn, AgL.ECmd)
+                    End If
+                Next I
+            End With
+
+            Call AgL.LogTableEntry(mSearchCode, Me.Text, AgL.MidStr(Topctrl1.Mode, 0, 1), AgL.PubMachineName, AgL.PubUserName, AgL.PubLoginDate, AgL.GCn, AgL.ECmd)
+
+
+            AgL.SynchroniseSiteOnLineData(AgL, AgL.GCn, AgL.Gcn_ConnectionString, AgL.GcnSite_ConnectionString, AgL.ECmd)
+
+            AgL.ETrans.Commit()
+            mTrans = False
+
+            If AgL.PubMoveRecApplicable Then
+                FIniMaster(0, 1)
+                Topctrl_tbRef()
+            End If
+
+            Dim mDocId As String = mSearchCode
+
+            If Topctrl1.Mode = "Add" Then
+                Topctrl1.LblDocId.Text = mSearchCode
+
+                Topctrl1.FButtonClick(0)
+
+                'If MsgBox("Want To Print Receipt?...", MsgBoxStyle.YesNo) = MsgBoxResult.Yes Then
+                '    Call PrintDocument(mDocId)
+                'End If
+
+                Exit Sub
+            Else
+                Topctrl1.SetDisp(True)
+                If AgL.PubMoveRecApplicable Then MoveRec()
+            End If
+
+        Catch ex As Exception
+            If mTrans = True Then
+                AgL.ETrans.Rollback()
+            End If
+
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Public Sub MoveRec()
+        Dim DsTemp As DataSet = Nothing, DTbl As DataTable = Nothing
+        Dim MastPos As Long
+        Dim I As Integer
+        Dim GcnRead As New SqlClient.SqlConnection
+        GcnRead.ConnectionString = AgL.Gcn_ConnectionString
+        GcnRead.Open()
+
+        Try
+            FClear()
+            BlankText()
+            If AgL.PubMoveRecApplicable Then
+                If BMBMaster.Position < 0 Then Exit Sub
+                MastPos = BMBMaster.Position
+                mSearchCode = DTMaster.Rows(MastPos)("SearchCode")
+            Else
+                If AgL.PubSearchRow <> "" Then mSearchCode = AgL.PubSearchRow
+            End If
+            If mSearchCode <> "" Then
+                mQry = "Select S.*, V1.TotalPresent, V1.TotalAbsent, V1.TotalEmployee " & _
+                        " From Pay_DayAttendance S " & _
+                        " Left Join (SELECT A1.Code, Sum(CASE WHEN A1.IsPresent = 0 THEN 0 ELSE 1 END)  TotalPresent, Sum(CASE WHEN A1.IsPresent = 0 THEN 1 ELSE 0 END)  TotalAbsent, Count(A1.Employee)  TotalEmployee FROM Pay_DayAttendance1 A1 Where A1.Code = '" & mSearchCode & "' GROUP BY A1.Code ) V1 On S.Code = V1.Code " & _
+                        " Where S.Code = '" & mSearchCode & "'"
+                DsTemp = AgL.FillData(mQry, AgL.GCn)
+
+                With DsTemp.Tables(0)
+                    If .Rows.Count > 0 Then
+                        TxtSite_Code.AgSelectedValue = AgL.XNull(.Rows(0)("Site_Code"))
+                        TxtA_Date.Text = Format(AgL.XNull(.Rows(0)("A_Date")), AgLibrary.ClsConstant.DateFormat_ShortDate)
+                        TxtRemark.Text = AgL.XNull(.Rows(0)("Remark"))
+
+                        TxtTotalAbsent.Text = AgL.VNull(.Rows(0)("TotalAbsent"))
+                        TxtTotalPresent.Text = AgL.VNull(.Rows(0)("TotalPresent"))
+                        TxtTotalEmployee.Text = AgL.VNull(.Rows(0)("TotalEmployee"))
+
+                        TxtPrepared.Text = AgL.XNull(.Rows(0)("PreparedBy"))
+                        TxtModified.Text = AgL.XNull(.Rows(0)("ModifiedBy"))
+                        GroupBox4.Visible = IIf(TxtModified.Text.Trim <> "", True, False)
+                    End If
+                End With
+
+                mQry = "Select Sa.* " & _
+                        " From Pay_DayAttendance1 Sa " & _
+                        " Where Sa.Code = '" & mSearchCode & "' " & _
+                        " "
+                DsTemp = AgL.FillData(mQry, AgL.GCn)
+
+                With DsTemp.Tables(0)
+                    DGL1.RowCount = 1 : DGL1.Rows.Clear()
+                    If .Rows.Count > 0 Then
+                        For I = 0 To DsTemp.Tables(0).Rows.Count - 1
+                            DGL1.Rows.Add()
+                            DGL1.Item(Col_SNo, I).Value = DGL1.Rows.Count
+                            DGL1.AgSelectedValue(Col1Employee, I) = AgL.XNull(.Rows(I)("Employee"))
+                            DGL1.Item(Col1IsPresent, I).Value = AgL.VNull(.Rows(I)("IsPresent"))
+                        Next I
+                    End If
+                End With
+            Else
+                BlankText()
+            End If
+            If AgL.PubMoveRecApplicable Then Topctrl1.FSetDispRec(BMBMaster)
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        Finally
+            DsTemp = Nothing
+            DTbl = Nothing
+            Topctrl1.tPrn = False
+        End Try
+    End Sub
+
+    Private Sub BlankText()
+        If Topctrl1.Mode <> "Add" Then Topctrl1.BlankTextBoxes(Me)
+        mSearchCode = ""
+
+        DGL1.RowCount = 1 : DGL1.Rows.Clear()
+
+    End Sub
+
+
+
+    Private Sub DispText(Optional ByVal Enb As Boolean = False)
+        'Coding To Enable/Disable Controls
+        TxtSite_Code.Enabled = False
+    End Sub
+
+
+    Private Sub DGL1_CellEnter(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DGL1.CellEnter
+        If Topctrl1.Mode = "Browse" Then Exit Sub
+        Dim mRowIndex As Integer, mColumnIndex As Integer
+
+        Try
+            mRowIndex = DGL1.CurrentCell.RowIndex
+            mColumnIndex = DGL1.CurrentCell.ColumnIndex
+
+            If DGL1.Item(mColumnIndex, mRowIndex).Value Is Nothing Then DGL1.Item(mColumnIndex, mRowIndex).Value = ""
+            Select Case DGL1.CurrentCell.ColumnIndex
+                Case Col1Employee
+                    'DGL1.AgRowFilter(AdmissionDocId) = " And AdmissionDocId = '" & TxtStreamYearSemester.AgSelectedValue & "'"
+            End Select
+
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub Dgl1_CellValueChanged(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles DGL1.CellValueChanged
+        Dim mRowIndex As Integer, mColumnIndex As Integer
+        If Topctrl1.Mode = "Browse" Then Exit Sub
+
+        Try
+            mRowIndex = DGL1.CurrentCell.RowIndex
+            mColumnIndex = DGL1.CurrentCell.ColumnIndex
+
+            Select Case DGL1.CurrentCell.ColumnIndex
+                'Case <ColumnIndex>
+                '<Executable Code>
+            End Select
+            Call Calculation()
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub DGL1_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles DGL1.KeyDown
+        If Topctrl1.Mode <> "Browse" Then
+            If e.Control And e.KeyCode = Keys.D Then
+                'sender.CurrentRow.Selected = True
+            End If
+        End If
+        If e.Control Or e.Shift Or e.Alt Then Exit Sub
+    End Sub
+
+    Private Sub DGL1_EditingControl_Validating(ByVal sender As Object, ByVal e As System.ComponentModel.CancelEventArgs) Handles DGL1.EditingControl_Validating
+        If Topctrl1.Mode = "Browse" Then Exit Sub
+        Dim mRowIndex As Integer, mColumnIndex As Integer
+        Try
+            mRowIndex = DGL1.CurrentCell.RowIndex
+            mColumnIndex = DGL1.CurrentCell.ColumnIndex
+
+            If DGL1.Item(mColumnIndex, mRowIndex).Value Is Nothing Then DGL1.Item(mColumnIndex, mRowIndex).Value = ""
+
+            Select Case DGL1.CurrentCell.ColumnIndex
+                Case Col1Employee
+                    If DGL1.Item(mColumnIndex, mRowIndex).Value.ToString.Trim = "" Or DGL1.AgSelectedValue(mColumnIndex, mRowIndex).Trim = "" Then
+                        'DGL1.Item(Col1_ManualCode, mRowIndex).Value = ""
+                    Else
+                        If Me.Controls("HelpDg") IsNot Nothing And CType(Me.Controls("HelpDg"), AgControls.AgDataGrid).CurrentCell IsNot Nothing Then
+                            With CType(Me.Controls("HelpDg"), AgControls.AgDataGrid)
+                                'DGL1.Item(Col1_ManualCode, mRowIndex).Value = AgL.XNull(.Item("Name", .CurrentCell.RowIndex).Value)
+                            End With
+                        End If
+                    End If
+
+            End Select
+            Call Calculation()
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub DGL1_RowsAdded(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewRowsAddedEventArgs) Handles DGL1.RowsAdded
+        sender(Col_SNo, sender.Rows.Count - 1).Value = Trim(sender.Rows.Count)
+    End Sub
+
+    Private Sub DGL1_RowsRemoved(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewRowsRemovedEventArgs) Handles DGL1.RowsRemoved
+        Try
+            DTStruct.Rows.Remove(DTStruct.Rows.Item(e.RowIndex))
+        Catch ex As Exception
+        End Try
+        AgL.FSetSNo(sender, Col_SNo)
+
+        Call Calculation()
+    End Sub
+
+
+    Private Sub FClear()
+        DTStruct.Clear()
+    End Sub
+
+    Private Sub FAddRowStructure()
+        Dim DRStruct As DataRow
+        Try
+            DRStruct = DTStruct.NewRow
+            DTStruct.Rows.Add(DRStruct)
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub Control_Enter(ByVal sender As Object, ByVal e As System.EventArgs) Handles _
+        TxtSite_Code.Enter, TxtRemark.Enter, TxtA_Date.Enter
+
+        Try
+            Select Case sender.name
+                'Case <Sender>.Name
+                '<Executable code>
+            End Select
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub Control_Validating(ByVal sender As Object, ByVal e As System.ComponentModel.CancelEventArgs) Handles _
+        TxtSite_Code.Validating, TxtRemark.Validating, TxtA_Date.Validating
+
+        Try
+            Select Case sender.NAME
+                Case TxtA_Date.Name
+                    If TxtA_Date.Text.ToString.Trim = "" Then TxtA_Date.Text = AgL.PubLoginDate
+            End Select
+
+            Call Calculation()
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub Calculation()
+        Dim I As Integer = 0
+        If Topctrl1.Mode = "Browse" Then Exit Sub
+
+        TxtTotalEmployee.Text = ""
+        TxtTotalAbsent.Text = ""
+        TxtTotalPresent.Text = ""
+
+        With DGL1
+            For I = 0 To .Rows.Count - 1
+                If .Item(Col1Employee, I).Value Is Nothing Then .Item(Col1Employee, I).Value = ""
+
+                If .Item(Col1Employee, I).Value <> "" Then
+                    If CBool(.Item(Col1IsPresent, I).Value) Then
+                        TxtTotalPresent.Text = Val(TxtTotalPresent.Text) + 1
+                    Else
+                        TxtTotalAbsent.Text = Val(TxtTotalAbsent.Text) + 1
+                    End If
+                    TxtTotalEmployee.Text = Val(TxtTotalEmployee.Text) + 1
+                End If
+            Next
+        End With
+    End Sub
+
+
+    Private Function Data_Validation() As Boolean
+        Dim I As Integer = 0, J As Integer = 0
+        Try
+            Call Calculation()
+
+            If AgL.RequiredField(TxtSite_Code) Then Exit Function
+            If AgL.RequiredField(TxtA_Date, "Attendance Date") Then Exit Function
+
+
+            AgCL.AgBlankNothingCells(DGL1)
+            If AgCL.AgIsBlankGrid(DGL1, Col1Employee) Then Exit Function
+            If AgCL.AgIsDuplicate(DGL1, "" & Col1Employee & "") Then Exit Function
+
+            If Not AgCL.AgCheckMandatory(Me) Then Exit Function
+
+            mQry = "Select IsNull(count(*),0) Cnt " & _
+                    " From Pay_DayAttendance A " & _
+                    " Where A.Site_Code = " & AgL.Chk_Text(TxtSite_Code.AgSelectedValue) & " And " & _
+                    " A.A_Date = " & AgL.ConvertDate(TxtA_Date.Text) & " And " & _
+                    " " & IIf(AgL.StrCmp(Topctrl1.Mode, "Add"), " 1=1 ", " A.Code <> '" & mSearchCode & "' ") & " "
+            AgL.ECmd = AgL.Dman_Execute(mQry, AgL.GCn)
+            If AgL.ECmd.ExecuteScalar() > 0 Then MsgBox("Attendance Already Exist!") : TxtA_Date.Focus() : Exit Function
+
+            If Topctrl1.Mode = "Add" Then
+                mSearchCode = AgL.GetMaxId("Pay_DayAttendance", "Code", AgL.GCn, AgL.PubDivCode, TxtSite_Code.AgSelectedValue, 8, True, True, , AgL.Gcn_ConnectionString)
+            End If
+
+            Data_Validation = True
+        Catch ex As Exception
+            MsgBox(ex.Message)
+            Data_Validation = False
+        End Try
+    End Function
+
+    Private Sub Topctrl_tbAdd() Handles Topctrl1.tbAdd
+        BlankText()
+        DispText(True)
+        TxtSite_Code.AgSelectedValue = AgL.PubSiteCode
+
+        TxtA_Date.Focus()
+    End Sub
+
+
+    Private Sub BtnFill_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtnFillStudent.Click
+        Try
+            Select Case sender.name
+                Case BtnFillStudent.Name
+                    Call ProcFillEmployee()
+            End Select
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub ProcFillEmployee()
+        Dim DtTemp As DataTable
+        Dim I As Integer
+        Try
+            If Topctrl1.Mode = "Browse" Then Exit Sub
+
+            DGL1.RowCount = 1 : DGL1.Rows.Clear()
+
+            If AgL.RequiredField(TxtSite_Code) Then Exit Sub
+
+            mQry = "SELECT E.SubCode AS Employee, Sg.ManualCode, Convert(bit,1) As IsPresent " & _
+                    " FROM Pay_Employee E " & _
+                    " LEFT JOIN SubGroup Sg ON E.SubCode = Sg.SubCode " & _
+                    " WHERE IsNull(E.IsTeachingStaff,0)<>0 And " & _
+                    " " & AgL.PubSiteConditionCommonAc(AgL.PubIsHo, "Sg.Site_Code", TxtSite_Code.AgSelectedValue, "Sg.CommonAc") & " And " & _
+                    " Case When E.DateOfResign Is Null Then " & AgL.ConvertDate(TxtA_Date.Text) & " Else E.DateOfResign End >= " & AgL.ConvertDate(TxtA_Date.Text) & " " & _
+                    " ORDER BY Sg.Name "
+
+            DtTemp = AgL.FillData(mQry, AgL.GCn).Tables(0)
+
+            With DtTemp
+                DGL1.RowCount = 1 : DGL1.Rows.Clear()
+
+                If .Rows.Count > 0 Then
+                    For I = 0 To DtTemp.Rows.Count - 1
+                        DGL1.Rows.Add()
+                        DGL1.Item(Col_SNo, I).Value = DGL1.Rows.Count
+                        DGL1.AgSelectedValue(Col1Employee, I) = AgL.XNull(.Rows(I)("Employee"))
+                        DGL1.Item(Col1IsPresent, I).Value = AgL.VNull(.Rows(I)("IsPresent"))
+                    Next I
+
+                    DGL1.CurrentCell = DGL1(Col1IsPresent, 0) : DGL1.Focus()
+                Else
+                    MsgBox("No Employee Record Exists For Attendance!...")
+                End If
+            End With
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+            DGL1.RowCount = 1 : DGL1.Rows.Clear()
+        Finally
+            DtTemp = Nothing
+            Call Calculation()
+        End Try
+    End Sub
+
+End Class
+

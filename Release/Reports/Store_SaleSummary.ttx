@@ -1,0 +1,34 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 STSAL 2011       1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+Type	string	255	STSAL	
+V_Prefix	string	255	2011	
+Bill NO	long	1	
+Bill DATE	string	255	26/May/2011	
+AcCode	string	255	A100000011	
+Amount	number	144	
+Line ADD	number	0	
+Line Ded	number	0	
+Net Amt	number	144	
+Addtion	number	0	
+Dedustion	number	0	
+InvoiceAmount	number	144	
+PreparedBy	string	255	SUPER	
+Entry DATE	date	26/May/2012 12:00:00 AM	
+U_AE	string	255	A	
+Edit_Date	date		
+ModifiedBy	string	255		
+Party Name	string	255	ABHISHEK  CHAUHAN {903}	
+Address	string	255	SAADAT PURA, MAU PIN : 275101	
+address1	string	255		
+LineAddtion_Cap	string	255	NA	
+LineDedu_Cap	string	255	NA	
+Deduct_Cap	string	255	NA	
+Ad_cap	string	255	NA	
+Site_Name	string	255	GLOBAL GROUP OF INSTITUTIONS	
+DepartmentCode	string	255	A1000006	
+DepartmentDesc	string	255	CLASS-IV DEPARTMENT	
+DepartmentManualCode	string	255	CLASS IV	
+SaleVoucherNo	string	255	1/2011/STSAL/1/A	
+V_Date	date	26/May/2011 12:00:00 AM	

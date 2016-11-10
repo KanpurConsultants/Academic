@@ -1,0 +1,12 @@
+D:\Active Projects\Academic\Release\RUG_Utility.dll
+D:\Active Projects\Academic\Release\RUG_Utility.pdb
+D:\Active Projects\Academic\Release\RUG_Utility.xml
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\ResolveAssemblyReference.cache
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.FrmDivisionList.resources
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.FrmUser.resources
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.Resources.resources
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.MDIMain.resources
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.vbproj.GenerateResource.Cache
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.dll
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.xml
+D:\Active Projects\Academic\Project\RUG_Utility\obj\Release\RUG_Utility.pdb

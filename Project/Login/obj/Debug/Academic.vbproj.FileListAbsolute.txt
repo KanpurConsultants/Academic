@@ -1,0 +1,40 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.exe
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmServerNotFound.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic.exe.config
+D:\Rati\Academic\Release\Academic.exe.config
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.exe
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.xml
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.pdb
+D:\Rati\Academic\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.FrmCompany.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.FrmDivisionSelection.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.FrmLogin.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.FrmServerNotFound.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.FrmSiteSelection.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.MDIMain.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.Resources.resources
+D:\Rati\Academic\Project\Login\obj\Debug\Academic.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Release\Academic.exe
+D:\Rati\Academic\Release\Academic.pdb
+D:\Rati\Academic\Release\Academic.xml
+E:\Rati\Academic\Release\Academic.exe.config
+E:\Rati\Academic\Project\Login\obj\Debug\Academic.exe
+E:\Rati\Academic\Project\Login\obj\Debug\Academic.xml
+E:\Rati\Academic\Project\Login\obj\Debug\Academic.pdb
+E:\Rati\Scholar\Release\Academic.exe.config
+E:\Rati\Scholar\Project\Login\obj\Debug\Academic.exe
+E:\Rati\Scholar\Project\Login\obj\Debug\Academic.xml
+E:\Rati\Scholar\Project\Login\obj\Debug\Academic.pdb

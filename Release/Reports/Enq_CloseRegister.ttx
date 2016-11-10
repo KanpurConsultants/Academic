@@ -1,0 +1,38 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1   ENQ 2011      13	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Date	date	10/Jan/2012 12:00:00 AM	
+V_Type	string	255	ENQ	
+V_Prefix	string	255	2011	
+VoucherNo	string	255	13/2011/ENQ/1/A	
+EnquiryMode	string	255	Walking At Office	
+EnquiryByName	string	255	R K  Sengar	
+CloseByName	string	255	R K  Sengar	
+Name	string	255	Prachi Singh  	
+Address	string	255	 	
+City	string	255		
+PIN	string	255		
+Phone	string	255		
+Mobile	string	255	7376256410	
+EMail	string	255		
+Sex	string	255		
+DOB	date		
+ReligionDesc	string	255		
+SiteName	string	255	GLOBAL GROUP OF INSTITUTIONS	
+CategoryDesc	string	255		
+FatherName	string	255		
+MotherName	string	255		
+Status	string	255	Closed	
+IsClosed	boolean	True	
+Remark	string	255		
+PreparedBy	string	255	SA	
+Session	string	255	A1000002	
+Programme	string	255	A1000001	
+Stream	string	255		
+Nationality	string	255		
+ReferenceNo	string	255		
+ManualRegNo	string	255		
+RegNo	string	255		
+AdmNo	long		
+AdmissionSem	string	255		

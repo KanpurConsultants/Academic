@@ -1,0 +1,34 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1 STPUR 2011       3	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+Type	string	255	STPUR	
+V_Prefix	string	255	2011	
+Bill NO	long	3	
+Bill DATE	string	255	01/Jun/2011	
+AcCode	string	255	A100001631	
+Amount	number	240	
+Line ADD	number	0	
+Line Ded	number	0	
+Net Amt	number	240	
+Addtion	number	0	
+Dedustion	number	0	
+InvoiceAmount	number	240	
+PreparedBy	string	255	SUPER	
+Entry DATE	date	01/Jun/2012 12:00:00 AM	
+U_AE	string	255	A	
+Edit_Date	date		
+ModifiedBy	string	255		
+Party Name	string	255	SAYED ASIFI ALAM RIZVI {364}	
+Address	string	255	23/16, PATKAPUR,	
+address1	string	255		
+LineAddtion_Cap	string	255	Addition	
+LineDedu_Cap	string	255	Deduction	
+Deduct_Cap	string	255	Purchase Deduction	
+Ad_cap	string	255	Purchase Addition	
+Site_Name	string	255	Naraina College of Engineering & Technology	
+DepartmentCode	string	255	A1000003	
+DepartmentDesc	string	255	DEPARTMENT OF CS FOR GOODS ISSUE & RECIEVE	
+DepartmentManualCode	string	255	CS DEPARTMENT	
+purchaseVoucherNo	string	255	3/2011/STPUR/1/A	
+V_Date	date	01/Jun/2011 12:00:00 AM	
